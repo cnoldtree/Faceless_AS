@@ -1,0 +1,64 @@
+[
+    {
+        "outputFile": "C:\\lanzhiguo\\Class Code\\android\\Faceless_as\\faceless\\build\\intermediates\\res\\merged\\debug\\values-sv\\values-sv.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 85,
+                    "endOffset": 136
+                },
+                "from": {
+                    "file": "C:\\lanzhiguo\\Class Code\\android\\Faceless_as\\faceless\\build\\intermediates\\exploded-aar\\Faceless_as\\actionBarPullToRefresh\\unspecified\\res\\values-sv\\values-sv.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 85,
+                        "endOffset": 136
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 141,
+                    "endColumn": 72,
+                    "endOffset": 209
+                },
+                "from": {
+                    "file": "C:\\lanzhiguo\\Class Code\\android\\Faceless_as\\faceless\\build\\intermediates\\exploded-aar\\Faceless_as\\actionBarPullToRefresh\\unspecified\\res\\values-sv\\values-sv.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 141,
+                        "endColumn": 72,
+                        "endOffset": 209
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 214,
+                    "endColumn": 84,
+                    "endOffset": 294
+                },
+                "from": {
+                    "file": "C:\\lanzhiguo\\Class Code\\android\\Faceless_as\\faceless\\build\\intermediates\\exploded-aar\\Faceless_as\\actionBarPullToRefresh\\unspecified\\res\\values-sv\\values-sv.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 214,
+                        "endColumn": 84,
+                        "endOffset": 294
+                    }
+                }
+            }
+        ]
+    }
+]

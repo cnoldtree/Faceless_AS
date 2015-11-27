@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\Faceless_as\\faceless\\build\\intermediates\\res\\merged\\debug\\drawable\\badge.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\Faceless_as\\faceless\\src\\main\\res\\drawable\\badge.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\Faceless_as\\faceless\\build\\intermediates\\res\\merged\\debug\\drawable\\spinner_light.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\Faceless_as\\faceless\\src\\main\\res\\drawable\\spinner_light.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\Faceless_as\\faceless\\build\\intermediates\\res\\merged\\debug\\drawable\\horizontal_progress_bar.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\Faceless_as\\faceless\\src\\main\\res\\drawable\\horizontal_progress_bar.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\Faceless_as\\faceless\\build\\intermediates\\res\\merged\\debug\\drawable\\mode_button.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\Faceless_as\\faceless\\src\\main\\res\\drawable\\mode_button.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\Faceless_as\\faceless\\build\\intermediates\\res\\merged\\debug\\drawable\\transparent_button.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\Faceless_as\\faceless\\src\\main\\res\\drawable\\transparent_button.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\Faceless_as\\faceless\\build\\intermediates\\res\\merged\\debug\\drawable\\inline_btn_default_holo_light.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\Faceless_as\\faceless\\src\\main\\res\\drawable\\inline_btn_default_holo_light.xml"
+    }
+]

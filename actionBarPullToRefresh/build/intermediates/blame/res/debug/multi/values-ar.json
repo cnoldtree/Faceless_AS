@@ -1,0 +1,64 @@
+[
+    {
+        "outputFile": "C:\\lanzhiguo\\Class Code\\android\\Faceless_as\\actionBarPullToRefresh\\build\\intermediates\\res\\merged\\debug\\values-ar\\values-ar.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 68,
+                    "endOffset": 119
+                },
+                "from": {
+                    "file": "C:\\lanzhiguo\\Class Code\\android\\Faceless_as\\actionBarPullToRefresh\\src\\main\\res\\values-ar\\pull_refresh_strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 684,
+                        "endColumn": 68,
+                        "endOffset": 748
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 124,
+                    "endColumn": 67,
+                    "endOffset": 187
+                },
+                "from": {
+                    "file": "C:\\lanzhiguo\\Class Code\\android\\Faceless_as\\actionBarPullToRefresh\\src\\main\\res\\values-ar\\pull_refresh_strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 827,
+                        "endColumn": 67,
+                        "endOffset": 890
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 192,
+                    "endColumn": 71,
+                    "endOffset": 259
+                },
+                "from": {
+                    "file": "C:\\lanzhiguo\\Class Code\\android\\Faceless_as\\actionBarPullToRefresh\\src\\main\\res\\values-ar\\pull_refresh_strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 754,
+                        "endColumn": 71,
+                        "endOffset": 821
+                    }
+                }
+            }
+        ]
+    }
+]

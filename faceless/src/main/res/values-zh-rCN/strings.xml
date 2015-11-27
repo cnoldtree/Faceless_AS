@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="about_x_kilometers">ca. %.1f km</string>
+	<string name="action_add">写一条信息</string>
+	<string name="action_add_favorite">添加到收藏</string>
+	<string name="action_add_subscription">评论订阅</string>
+	<string name="action_help">帮助</string>
+	<string name="action_help_summary">关于这个程序你有任何疑问？请在这里阅读我们的详细解释。</string>
+	<string name="action_invite">邀请朋友</string>
+	<string name="action_invite_promo">你的朋友都玩无面者了吗？</string>
+	<string name="action_invite_summary">对无面者中，你的朋友会不会看到你的名字。这使得谈话更诚实和有娱乐性。</string>
+	<string name="action_loading">加载中 &#8230;</string>
+	<string name="action_notification_count">新的通知</string>
+	<string name="action_remove_favorite">从收藏中移除</string>
+	<string name="action_remove_subscription">退订评论</string>
+	<string name="action_report">回复消息</string>
+	<string name="action_settings">设置</string>
+	<string name="action_share_picture">以图片分享</string>
+	<string name="app_name">无面者</string>
+	<string name="app_rater_explanation">你喜欢这个应用吗？如果你能在Google Play评价我们的应用程序，我们将非常高兴。感谢您的支持！</string>
+	<string name="app_rater_later">稍后</string>
+	<string name="app_rater_never">不，谢谢</string>
+	<string name="app_rater_now">现在打分</string>
+	<string name="app_rater_title">给这个应用打分</string>
+	<string name="block_user_added">你不会再接受到这个用户的消息</string>
+	<string name="cancel">取消</string>
+	<string name="change_background">Change background</string>
+	<string name="choose_topic_help">What topic do you want to write something about? Your choice helps others to see only the content they\'re interested in.</string>
+	<string name="choose_visibility_help">Who do you want to share your message with? In any case, nobody will be able to see who you are. Messages on Faceless are always anonymous.</string>
+	<string name="comment_add_hint">你的评论 &#8230;</string>
+	<string name="comment_confirm_public_body">你想给所有用户发表评论?\n\n相反如果你私下回复某人，请点击相应的评论。</string>
+	<string name="comment_confirm_public_title">公开的评论</string>
+	<string name="comment_options">评论选项</string>
+	<string name="comments">评论</string>
+	<string name="country">国家</string>
+	<string name="degree_author">作者</string>
+	<string name="degree_example">示例</string>
+	<string name="degree_friend">朋友</string>
+	<string name="degree_friend_of_friend">朋友的朋友</string>
+	<string name="degree_self">你</string>
+	<string name="degree_worldwide">全球</string>
+	<string name="enable_location_caption">Share with people nearby</string>
+	<string name="enable_location_help">Do you want to share your message and the <b>approximate</b> location with people nearby?</string>
+	<string name="error_bad_request">服务器无法处理你的请求</string>
+	<string name="error_maintenance">无面者暂停服务</string>
+	<string name="error_no_connection">请检查你的网络连接</string>
+	<string name="error_outdated_client">请通过Google Play更新无面者到最新版本</string>
+	<string name="error_temporarily_banned">由于被他人举报，你已暂时被禁言</string>
+	<string name="example_message_explanation">这只是一个例子：开始写你自己的信息吧</string>
+	<string-array name="example_messages">
+		<item>多年来我一直在画画，但从来没有给任何人看过。</item>
+		<item>在过去的三个星期里，我一直睡在我的车里。</item>
+		<item>没有知道，我一直在监狱里。</item>
+		<item>我一直在超市吃我正在买的食物。</item>
+		<item>我和我最好的朋友相爱了。</item>
+		<item>当几天没有洗头我的头发更好看。</item>
+		<item>正在和我的妻子第一次度假。</item>
+		<item>我的男朋友还没见过我父母。</item>
+		<item>每天我都在考虑辞掉工作搬到另一个城市中去。</item>
+		<item>是否有任何人真的幸福吗？</item>
+		<item>每当我在报纸上看到婚礼公告，我变得好嫉妒。</item>
+	</string-array>
+	<string name="general_settings">基本设置</string>
+	<string name="intro">欢迎</string>
+	<string-array name="introduction_steps">
+		<item>在无面者里你可以畅所欲言。 \n\n与您全世界的朋友分享消息。</item>
+		<item>你可以是开放的谈论任何事。 \n\n没有人会知道你是谁 — 这是只有你的话。</item>
+		<item>你不需要在无面者中管理好友列表。\n\n你会自动连接到你的联系人。</item>
+		<item>记住，一切都是匿名共享。\n\n人们会看到你的消息，但是他们不会知道你是谁。</item>
+		<item>这个应用不是一个恃强凌弱、骚扰或消极的地方。\n\n在下一个屏幕上开始编写你的第一个消息吧。</item>
+	</string-array>
+	<string name="invitation_title">获取无面者</string>
+	<string name="invite_x_friends_to_see_message">Invite %d friends in order to see this message</string>
+	<string name="language">语言</string>
+	<string name="learn_more">了解更多</string>
+	<string name="login_throttled_body">您的帐户已经有太多失败的登录尝试。 \n\n这也可能是由于另一个人谁试图访问您的帐户。 \n\n因此，我们为保护您的帐户，现在暂时锁定它。 \n\n请稍后再试！</string>
+	<string name="login_throttled_title">账号被锁定</string>
+	<string name="mark_all_read">标记为已读</string>
+	<string name="message">消息</string>
+	<string-array name="meta_about">
+		<item>无面者是一个可以向全世界的朋友畅所欲言的地方。</item>
+		<item>你可以坦诚公开，无论你谈什么。没有人会知道你是谁 — 别人只能看到你的消息。</item>
+		<item>享受开放和善良，获取真实的反应和诚实的意见，让你的思想传播到世界各地。</item>
+		<item>你没有必要当心一个自己资历。也没有必要吹嘘。这里只有你的话语。</item>
+		<item>谈论事情可能会尴尬，不要害怕问问题。分享的东西没有任何缺点!</item>
+		<item>您将自动连接到你的朋友。阅读他们的消息、写评论 — 你永远不会知道他们是谁。</item>
+		<item>分享故事、提问、讨论人生或坦白一下事情。做你自己就好。</item>
+		<item>要诚实、真诚，做个聪明而积极的人。</item>
+	</string-array>
+	<string name="meta_open_source_title"><b>这个应用程序根据开源许可证使用了以下第三方组件：</b></string>
+	<string-array name="meta_permissions_body">
+		<item>+ “读取手机状态和标识”：获取你的电话号码，安全加密后再使用加密的数据以匿名方式使你与你的朋友建立联络。</item>
+		<item>+ “读你的联系人”：获取你联系人的电话号码，安全加密后再使用加密的数据以匿名方式使你与你的朋友建立联络。</item>
+		<item>+ “完全网络访问”：发送/接收消息，评论和收藏。</item>
+		<item>+ “在启动时运行”：关闭设备后重新接受通知和同步。</item>
+	</string-array>
+	<string name="meta_permissions_title"><b>应用程序的权限：</b></string>
+	<string-array name="meta_privacy_body">
+		<item>+ 本应用只访问你和你的联系人的电话号码，不访问任何姓名，电子邮件地址或其他联系方式。</item>
+		<item>+ 你的电话号码使用不可逆的单向加密（散列函数）方式进行加密，稍后会发送到我们的服务器中。你尽可放心，因为即使知道这串加密字符也无法倒推出你的号码。</item>
+		<item>+ 正如你所看到的，我们只需要那些程序正常运行真正需要的权限，不像其他应用程序那样包含许多扩展权限列表。</item>
+	</string-array>
+	<string name="meta_privacy_title"><b>隐私政策：</b></string>
+	<string-array name="meta_questions_answers">
+		<item><b>我必须注册一个无面者账号吗？</b></item>
+		<item>不。你不须要注册账号，也不用提供邮箱或密码。不用关联 Facebook, Google 或者 Twitter.</item>
+		<item><b>谁会知道我是某条信息的撰写者？</b></item>
+		<item>没有人会知道。他们只能看到消息来自「朋友」或者「朋友的朋友」。还有种可能，我们会显示你的国家，但决不会涉及特定的信息。</item>
+		<item><b>所有的评论也要匿名吗？</b></item>
+		<item>是的。唯一的一个例外是本应用能指出原始消息和某评论是同一个人写的。</item>
+		<item><b>我可以看到我的哪些朋友在使用无面者吗？</b></item>
+		<item>不行。这是为了保护他们的隐私。时不时地，我们可能会告诉你的朋友的数量，但没有任何名字。</item>
+		<item><b>我可以忽略或屏蔽某个人吗？</b></item>
+		<item>当然可以。如果你不喜欢一个人，你可以将他们添加到你屏蔽列表。警告：以后也不能撤消！</item>
+		<item><b>我可以帮忙翻译的这个应用程序吗？</b></item>
+		<item>是的，这将是伟大的！请在这里找到你的语言：https://www.localize.im/v/36</item>
+	</string-array>
+	<string-array name="meta_security_body">
+		<item>+ 应用中的一切通讯内容和我们的服务器都已经过 SSL/TLS 加密。当你发布的内容和评论存储到我们服务器上的时候，我们会二次加密。</item>
+		<item>+ 你的个人信息不会发送到其他任何设备。你的朋友和其他用户都无法知晓你的真实身份，除非你自己透露了个人信息。</item>
+		<item>+ 发布的内容和评论不会永久保存。每隔一段时间就会自动销毁。</item>
+		<item>+ 即使你的朋友猜到了某一条消息是你写的，他们还是无法得知其他的消息是不是你写的。</item>
+		<item>+ 无面者是独立运营的。我们并不是某个大公司的下属机构，我们也不是以利润最大化为目的。</item>
+	</string-array>
+	<string name="meta_security_title"><b>无面者真的安全吗？</b></string>
+	<string name="mode_favorites">我的收藏</string>
+	<string name="mode_friends">朋友的消息</string>
+	<string name="mode_latest">最新回复</string>
+	<string name="mode_nearby">靠近你</string>
+	<string name="mode_popular">热门消息</string>
+	<string name="more_options">More options</string>
+	<string name="next">下一条</string>
+	<string name="ok">确定</string>
+	<string name="please_choose_topic">请为这条信息选择主题</string>
+	<string name="please_enter_message">请为信息添加内容</string>
+	<string name="private_reply">私信</string>
+	<string name="publish">发布</string>
+	<string name="rate_app">评价应用程序</string>
+	<string name="read_message">读消息</string>
+	<string name="reason_for_ban">Reason for ban</string>
+	<string name="reply_privately">私下回复</string>
+	<string name="report_comment">回复评论</string>
+	<string name="report_confirm_block">屏蔽</string>
+	<string name="report_confirm_report">报告</string>
+	<string-array name="report_options">
+		<item>错误的话题</item>
+		<item>举报欺凌/骚扰</item>
+		<item>举报暴力/威胁</item>
+		<item>举报仇视言论</item>
+		<item>举报淫秽内容</item>
+		<item>举报垃圾邮件/广告</item>
+		<item>举报诈骗/谬误</item>
+		<item>举报非法内容</item>
+		<item>屏蔽这个作者</item>
+	</string-array>
+	<string name="report_sent">你的反馈已成功发送</string>
+	<string name="report_warning_block">你确定要屏蔽这条内容的作者吗？\n\n你将来不会再收到来自这个作者的任何消息。\n\n此项操作不可逆。</string>
+	<string name="report_warning_report">你确定要举报这条不当内容？\n\n这可能会使得这条内容被删除，并且使内容的作者被 Faceless 禁言。\n\n如果你举报某一条消息，这么这条消息会立即从你的时间线移除。</string>
+	<string name="send">发送</string>
+	<string name="setup">设置</string>
+	<string name="setup_intro">请输入您的手机号以完成设置。\n\n先输入“+”号和国家代码（示例：+86）\n\n然后输入您的手机号。\n\n请确保您的手机号输入正确！\n\n如果手机号输入错误，我们就无法关联您和您的朋友们。\n\n当然，您的手机号不会被泄露。我们尊重您的隐私！</string>
+	<string name="setup_phone_number_hint">示例：+86 12345678901</string>
+	<string name="share_image_failed">无法保存并分享这条信息</string>
+	<string name="subscription_notifications">未读评论的通知</string>
+	<string-array name="subscription_notifications_human">
+		<item>正常</item>
+		<item>很少</item>
+		<item>极少</item>
+		<item>关闭</item>
+	</string-array>
+	<string name="subscriptions">未读评论</string>
+	<string name="this_app">关于本应用程序</string>
+	<string name="topic_art">艺术</string>
+	<string name="topic_beauty">美女</string>
+	<string name="topic_books">书籍</string>
+	<string name="topic_business">商业</string>
+	<string name="topic_confessions">Confessions</string>
+	<string name="topic_culture">教育</string>
+	<string name="topic_dating">约会</string>
+	<string name="topic_dreams">Dreams</string>
+	<string name="topic_family">家庭</string>
+	<string name="topic_fantasy">Fantasy</string>
+	<string name="topic_food">食物</string>
+	<string name="topic_friendship">Friendship</string>
+	<string name="topic_funny">Funny</string>
+	<string name="topic_games">Games</string>
+	<string name="topic_health">健康</string>
+	<string name="topic_hobbies">Hobbies</string>
+	<string name="topic_life">生活</string>
+	<string name="topic_love">爱情</string>
+	<string name="topic_money">Money</string>
+	<string name="topic_movies">电影</string>
+	<string name="topic_music">音乐</string>
+	<string name="topic_party">Party</string>
+	<string name="topic_philosophy">Philosophy</string>
+	<string name="topic_politics">政治</string>
+	<string name="topic_quotes">Quotes</string>
+	<string name="topic_school">School</string>
+	<string name="topic_science">科学</string>
+	<string name="topic_sex">两性</string>
+	<string name="topic_sports">运动</string>
+	<string name="topic_stories">Stories</string>
+	<string name="topic_studies">Studies</string>
+	<string name="topic_technology">技术</string>
+	<string name="topic_travel">Travel</string>
+	<string name="topic_work">工作</string>
+	<string name="topics">主题</string>
+	<string name="topics_empty_human">— 请选择话题分类 —</string>
+	<string name="topics_meta_human">关于无面者</string>
+	<string name="topics_summary">你想在最新信息和最热信息中看到哪些主题呢？</string>
+	<string name="translate">翻译</string>
+	<string name="translate_explanation">你想帮我们翻译无面者？\n\n请访问使用您计算机访问这个网址：\nwww.localize.im/v/36\n\n非常感谢你的支持！</string>
+	<string name="try_again_shortly">Please try again in a few minutes</string>
+	<string name="type_here">分享一个想法 &#8230; \n\n友善而积极的。</string>
+	<string name="verify">验证</string>
+	<string name="verify_phone_number">验证你的手机号</string>
+	<string name="verify_phone_number_how">在接下来的步骤中，您会被要求启动你的短信应用。 \n\n在这里请不要使用WhatsApp的或类似的应用程序，这是不行的。 \n\n我们已经在您的短信填写收件人和内容。 \n\n请不要更改文本，并按下“发送”即可完成验证。 \n\n几分钟后，你应该能够打开无面者，使用所有的预期功能。 \n\n注意：费用由您的运营商国际短信资费决定。</string>
+	<string name="verify_phone_number_why">为了保护你和你的朋友免受欺诈，我们必须验证您的电话号码。 \n\n这有助于我们给所有用户提供一个安全和愉快的服务。 \n\n你现在要核实你的电话号码？ \n\n注意：您只能使用一个单一的设备上这个程序。 \n\n需要帮助？通过%s与我们取得联系</string>
+	<string name="visibility_friends_public">Friends and public</string>
+	<string name="visibility_public">Public only</string>
+	<plurals name="x_chars_left">
+		<item quantity="zero">还剩%d个字</item>
+		<item quantity="one">还剩%d个字</item>
+		<item quantity="two">还剩%d个字</item>
+		<item quantity="few">还剩%d个字</item>
+		<item quantity="many">还剩%d个字</item>
+		<item quantity="other">还剩%d个字</item>
+	</plurals>
+	<plurals name="x_comments">
+		<item quantity="zero">%d条评论</item>
+		<item quantity="one">%d条评论</item>
+		<item quantity="two">%d条评论</item>
+		<item quantity="few">%d条评论</item>
+		<item quantity="many">%d条评论</item>
+		<item quantity="other">%d条评论</item>
+	</plurals>
+	<plurals name="x_favorites">
+		<item quantity="zero">%d人收藏</item>
+		<item quantity="one">%d人收藏</item>
+		<item quantity="two">%d人收藏</item>
+		<item quantity="few">%d人收藏</item>
+		<item quantity="many">%d人收藏</item>
+		<item quantity="other">%d人收藏</item>
+	</plurals>
+	<plurals name="x_friends_using_app">
+		<item quantity="zero">你有%d个朋友正在使用无面者</item>
+		<item quantity="one">你有%d个朋友正在使用无面者</item>
+		<item quantity="two">你有%d个朋友正在使用无面者</item>
+		<item quantity="few">你有%d个朋友正在使用无面者</item>
+		<item quantity="many">你有%d个朋友正在使用无面者</item>
+		<item quantity="other">你有%d个朋友正在使用无面者</item>
+	</plurals>
+	<plurals name="x_subscription_updates">
+		<item quantity="zero">%d条未读评论</item>
+		<item quantity="one">%d条未读评论</item>
+		<item quantity="two">%d条未读评论</item>
+		<item quantity="few">%d条未读评论</item>
+		<item quantity="many">%d条未读评论</item>
+		<item quantity="other">%d条未读评论</item>
+	</plurals>
+	<plurals name="x_unread_messages">
+		<item quantity="zero">来自你朋友的%d条未读消息</item>
+		<item quantity="one">来自你朋友的%d条未读消息</item>
+		<item quantity="two">来自你朋友的%d条未读消息</item>
+		<item quantity="few">来自你朋友的%d条未读消息</item>
+		<item quantity="many">来自你朋友的%d条未读消息</item>
+		<item quantity="other">来自你朋友的%d条未读消息</item>
+	</plurals>
+	<string name="you_and_friends">你和你的朋友</string>
+</resources>

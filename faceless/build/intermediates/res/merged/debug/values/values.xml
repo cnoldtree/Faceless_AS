@@ -1,0 +1,1045 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="countries_list_human" translatable="false">
+	    <item>@string/default_recommended</item>
+		<item>@string/country_chn</item>
+		<item>@string/country_ind</item>
+		<item>@string/country_usa</item>
+		<item>@string/country_idn</item>
+		<item>@string/country_bra</item>
+		<item>@string/country_pak</item>
+		<item>@string/country_nga</item>
+		<item>@string/country_bgd</item>
+		<item>@string/country_rus</item>
+		<item>@string/country_jpn</item>
+		<item>@string/country_mex</item>
+		<item>@string/country_phl</item>
+		<item>@string/country_vnm</item>
+		<item>@string/country_eth</item>
+		<item>@string/country_egy</item>
+		<item>@string/country_deu</item>
+		<item>@string/country_irn</item>
+		<item>@string/country_tur</item>
+		<item>@string/country_cod</item>
+		<item>@string/country_tha</item>
+		<item>@string/country_fra</item>
+		<item>@string/country_gbr</item>
+		<item>@string/country_ita</item>
+		<item>@string/country_mmr</item>
+		<item>@string/country_zaf</item>
+		<item>@string/country_kor</item>
+		<item>@string/country_col</item>
+		<item>@string/country_esp</item>
+		<item>@string/country_ukr</item>
+		<item>@string/country_tza</item>
+		<item>@string/country_ken</item>
+		<item>@string/country_arg</item>
+		<item>@string/country_dza</item>
+		<item>@string/country_pol</item>
+		<item>@string/country_sdn</item>
+		<item>@string/country_uga</item>
+		<item>@string/country_can</item>
+		<item>@string/country_irq</item>
+		<item>@string/country_mar</item>
+		<item>@string/country_per</item>
+		<item>@string/country_uzb</item>
+		<item>@string/country_mys</item>
+		<item>@string/country_sau</item>
+		<item>@string/country_ven</item>
+		<item>@string/country_npl</item>
+		<item>@string/country_afg</item>
+		<item>@string/country_yem</item>
+		<item>@string/country_prk</item>
+		<item>@string/country_gha</item>
+		<item>@string/country_moz</item>
+		<item>@string/country_aus</item>
+		<item>@string/country_twn</item>
+		<item>@string/country_civ</item>
+		<item>@string/country_syr</item>
+		<item>@string/country_mdg</item>
+		<item>@string/country_ago</item>
+		<item>@string/country_cmr</item>
+		<item>@string/country_lka</item>
+		<item>@string/country_rou</item>
+		<item>@string/country_bfa</item>
+		<item>@string/country_kaz</item>
+		<item>@string/country_ner</item>
+		<item>@string/country_nld</item>
+		<item>@string/country_mwi</item>
+		<item>@string/country_chl</item>
+		<item>@string/country_ecu</item>
+		<item>@string/country_gtm</item>
+		<item>@string/country_mli</item>
+		<item>@string/country_khm</item>
+		<item>@string/country_zmb</item>
+		<item>@string/country_sen</item>
+		<item>@string/country_zwe</item>
+		<item>@string/country_tcd</item>
+		<item>@string/country_ssd</item>
+		<item>@string/country_cub</item>
+		<item>@string/country_bel</item>
+		<item>@string/country_tun</item>
+		<item>@string/country_gin</item>
+		<item>@string/country_grc</item>
+		<item>@string/country_rwa</item>
+		<item>@string/country_cze</item>
+		<item>@string/country_som</item>
+		<item>@string/country_prt</item>
+		<item>@string/country_hti</item>
+		<item>@string/country_ben</item>
+		<item>@string/country_bdi</item>
+		<item>@string/country_bol</item>
+		<item>@string/country_hun</item>
+		<item>@string/country_swe</item>
+		<item>@string/country_aze</item>
+		<item>@string/country_blr</item>
+		<item>@string/country_dom</item>
+		<item>@string/country_hnd</item>
+		<item>@string/country_aut</item>
+		<item>@string/country_are</item>
+		<item>@string/country_tjk</item>
+		<item>@string/country_isr</item>
+		<item>@string/country_che</item>
+		<item>@string/country_png</item>
+		<item>@string/country_bgr</item>
+		<item>@string/country_hkg</item>
+		<item>@string/country_srb</item>
+		<item>@string/country_pry</item>
+		<item>@string/country_lao</item>
+		<item>@string/country_jor</item>
+		<item>@string/country_slv</item>
+		<item>@string/country_eri</item>
+		<item>@string/country_lby</item>
+		<item>@string/country_tgo</item>
+		<item>@string/country_sle</item>
+		<item>@string/country_nic</item>
+		<item>@string/country_kgz</item>
+		<item>@string/country_dnk</item>
+		<item>@string/country_fin</item>
+		<item>@string/country_svk</item>
+		<item>@string/country_sgp</item>
+		<item>@string/country_tkm</item>
+		<item>@string/country_nor</item>
+		<item>@string/country_lbn</item>
+		<item>@string/country_cri</item>
+		<item>@string/country_caf</item>
+		<item>@string/country_irl</item>
+		<item>@string/country_nzl</item>
+		<item>@string/country_geo</item>
+		<item>@string/country_cog</item>
+		<item>@string/country_pse</item>
+		<item>@string/country_lbr</item>
+		<item>@string/country_hrv</item>
+		<item>@string/country_omn</item>
+		<item>@string/country_bih</item>
+	</string-array>
+    <string-array name="countries_list_machine" translatable="false">
+	    <item/>
+		<item>CHN</item>
+		<item>IND</item>
+		<item>USA</item>
+		<item>IDN</item>
+		<item>BRA</item>
+		<item>PAK</item>
+		<item>NGA</item>
+		<item>BGD</item>
+		<item>RUS</item>
+		<item>JPN</item>
+		<item>MEX</item>
+		<item>PHL</item>
+		<item>VNM</item>
+		<item>ETH</item>
+		<item>EGY</item>
+		<item>DEU</item>
+		<item>IRN</item>
+		<item>TUR</item>
+		<item>COD</item>
+		<item>THA</item>
+		<item>FRA</item>
+		<item>GBR</item>
+		<item>ITA</item>
+		<item>MMR</item>
+		<item>ZAF</item>
+		<item>KOR</item>
+		<item>COL</item>
+		<item>ESP</item>
+		<item>UKR</item>
+		<item>TZA</item>
+		<item>KEN</item>
+		<item>ARG</item>
+		<item>DZA</item>
+		<item>POL</item>
+		<item>SDN</item>
+		<item>UGA</item>
+		<item>CAN</item>
+		<item>IRQ</item>
+		<item>MAR</item>
+		<item>PER</item>
+		<item>UZB</item>
+		<item>MYS</item>
+		<item>SAU</item>
+		<item>VEN</item>
+		<item>NPL</item>
+		<item>AFG</item>
+		<item>YEM</item>
+		<item>PRK</item>
+		<item>GHA</item>
+		<item>MOZ</item>
+		<item>AUS</item>
+		<item>TWN</item>
+		<item>CIV</item>
+		<item>SYR</item>
+		<item>MDG</item>
+		<item>AGO</item>
+		<item>CMR</item>
+		<item>LKA</item>
+		<item>ROU</item>
+		<item>BFA</item>
+		<item>KAZ</item>
+		<item>NER</item>
+		<item>NLD</item>
+		<item>MWI</item>
+		<item>CHL</item>
+		<item>ECU</item>
+		<item>GTM</item>
+		<item>MLI</item>
+		<item>KHM</item>
+		<item>ZMB</item>
+		<item>SEN</item>
+		<item>ZWE</item>
+		<item>TCD</item>
+		<item>SSD</item>
+		<item>CUB</item>
+		<item>BEL</item>
+		<item>TUN</item>
+		<item>GIN</item>
+		<item>GRC</item>
+		<item>RWA</item>
+		<item>CZE</item>
+		<item>SOM</item>
+		<item>PRT</item>
+		<item>HTI</item>
+		<item>BEN</item>
+		<item>BDI</item>
+		<item>BOL</item>
+		<item>HUN</item>
+		<item>SWE</item>
+		<item>AZE</item>
+		<item>BLR</item>
+		<item>DOM</item>
+		<item>HND</item>
+		<item>AUT</item>
+		<item>ARE</item>
+		<item>TJK</item>
+		<item>ISR</item>
+		<item>CHE</item>
+		<item>PNG</item>
+		<item>BGR</item>
+		<item>HKG</item>
+		<item>SRB</item>
+		<item>PRY</item>
+		<item>LAO</item>
+		<item>JOR</item>
+		<item>SLV</item>
+		<item>ERI</item>
+		<item>LBY</item>
+		<item>TGO</item>
+		<item>SLE</item>
+		<item>NIC</item>
+		<item>KGZ</item>
+		<item>DNK</item>
+		<item>FIN</item>
+		<item>SVK</item>
+		<item>SGP</item>
+		<item>TKM</item>
+		<item>NOR</item>
+		<item>LBN</item>
+		<item>CRI</item>
+		<item>CAF</item>
+		<item>IRL</item>
+		<item>NZL</item>
+		<item>GEO</item>
+		<item>COG</item>
+		<item>PSE</item>
+		<item>LBR</item>
+		<item>HRV</item>
+		<item>OMN</item>
+		<item>BIH</item>
+	</string-array>
+    <string-array name="example_messages">
+		<item>Have been drawing for years, but never shown to anyone.</item>
+		<item>For the last three weeks, I\'ve slept in my car.</item>
+		<item>Nobody at work knows that I\'ve been in jail.</item>
+		<item>I always eat the food I\'m buying when I\'m still in the supermarket.</item>
+		<item>I\'m in love with my best friend.</item>
+		<item>My hair looks better when not washed for some days.</item>
+		<item>Just been on vacation with my wife for the first time.</item>
+		<item>My boyfriend still hasn\'t met my parents.</item>
+		<item>Every day, I consider quitting my job and moving to another city.</item>
+		<item>Is anybody out there truthfully happy?</item>
+		<item>Whenever I read wedding announcements in the paper, I become jealous.</item>
+	</string-array>
+    <string-array name="introduction_steps">
+		<item>Faceless is where you can talk freely.\n\nShare messages with your friends and the whole world.</item>
+		<item>You can be open, no matter what you talk about.\n\nNobody will see who you are — it\'s only about your words.</item>
+		<item>You won\'t have to manage a friends list on Faceless.\n\nYou will be connected to your contacts automatically.</item>
+		<item>Remember, everything is shared anonymously.\n\nPeople will see your messages, but they won\'t know who you are.</item>
+		<item>This app is no place for bullying, harassment or negativity.\n\nGet started by writing your first message on the next screen.</item>
+	</string-array>
+    <string-array name="meta_about">
+		<item>Faceless is where you can talk freely, to your friends and the whole world.</item>
+		<item>You can be open, no matter what you talk about. Nobody will see who you are — it\'s only about your message.</item>
+		<item>Enjoy openness and kindness. Get truthful responses and honest opinions. Let your ideas spread around the world.</item>
+		<item>You don\'t have a profile to worry about. There\'s no need to brag. It\'s just your words that count.</item>
+		<item>Talk about things that might be embarrassing, and don\'t be afraid to ask a question. Share things without any downsides!</item>
+		<item>You will be connected to your friends automatically. Read their messages and write comments — you will never know exactly who they are.</item>
+		<item>Share stories, ask questions, discuss life or confess things. Just be yourself.</item>
+		<item>Be honest and genuine. Be smart and positive.</item>
+	</string-array>
+    <string-array name="meta_open_source_body" translatable="false">
+		<item>+ libphonenumber (Google / Apache License 2.0)</item>
+		<item>+ ActionBar-PullToRefresh (Chris Banes / Apache License 2.0)</item>
+		<item>+ AppRater (delight.im / Apache License 2.0)</item>
+		<item>+ Emoji (delight.im / Apache License 2.0)</item>
+		<item>+ Android-SimpleLocation (delight.im / Apache License 2.0)</item>
+		<item>+ Android-Countries (delight.im / Apache License 2.0)</item>
+		<item>+ Android-Languages (delight.im / Apache License 2.0)</item>
+		<item>+ Android-BaseLib (delight.im / Apache License 2.0)</item>
+		<item>+ Android-KeyValueSpinner (delight.im / Apache License 2.0)</item>
+		<item>+ Android-WebRequest (delight.im / Apache License 2.0)</item>
+		<item>+ Android-Tasks (delight.im / Apache License 2.0)</item>
+		<item>+ Android-Time (delight.im / Apache License 2.0)</item>
+		<item>+ Android-Progress (delight.im / Apache License 2.0)</item>
+		<item>+ Android-InfiniteScrolling (delight.im / Apache License 2.0)</item>
+		<item>+ SmoothProgressBar (Antoine Merle)</item>
+		<item>+ Android Icons (The Android Open Source Project / Apache License 2.0)</item>
+		<item>+ Windows Icons (Austin Andrews, Jay Zawrotny / Creative Commons BY-ND 3.0)</item>
+		<item>+ Android Holo Colors (Jérôme Van Der Linden / CC BY 3.0)</item>
+		<item>+ AndroidEmoji.ttf (The Android Open Source Project / Apache License 2.0)</item>
+	</string-array>
+    <string-array name="meta_permissions_body">
+		<item>+ \"Read phone status and identity\": Get your phone number, securely encrypt it, and use the encrypted number to anonymously connect you with your friends.</item>
+		<item>+ \"Read your contacts\": Get your contacts\' phone numbers, securely encrypt them, and use the encrypted numbers to anonymously connect you with your friends.</item>
+		<item>+ \"Full network access\": Send/receive messages, comments and favorites.</item>
+		<item>+ \"Run at startup\": Setting up notifications and synchronization again when you had switched off your device.</item>
+	</string-array>
+    <string-array name="meta_privacy_body">
+		<item>+ We only access your phone number and your contacts\' phone numbers. We don\'t access any names, email addresses or other contact details.</item>
+		<item>+ Phone numbers are encrypted with an irreversible one-way encryption (hash function) on your device and only afterwards send to our servers. Real phone numbers never leave your device.</item>
+		<item>+ As you can see, we require only those app permissions that are really necessary. No heavy list of extended permissions as with other apps.</item>
+	</string-array>
+    <string-array name="meta_questions_answers">
+		<item><b>Do I have to sign up for Faceless?</b></item>
+		<item>No. You don\'t need an account, neither an email address nor a password. No Facebook, no Google, no Twitter.</item>
+		<item><b>Who can see that I am the author of a message?</b></item>
+		<item>Nobody. People will only see that you are a \"Friend\" or a \"Friend of a friend\". Otherwise, we may show them your country, but never something specific.</item>
+		<item><b>Are comments anonymous as well?</b></item>
+		<item>Yes. The only thing that will be shown is whether a comment has been written by the same person who also wrote the original message.</item>
+		<item><b>Can I see which of my friends are on Faceless already?</b></item>
+		<item>No. This is to protect their privacy. From time to time, we may show you the number of friends, without any names, of course.</item>
+		<item><b>Can I ignore or block a particular person?</b></item>
+		<item>Yes. If you don\'t like what a person posts, you can add them to your block list. This cannot be undone later, however!</item>
+		<item><b>Can I help translate the app?</b></item>
+		<item>Yes, that would be great! Please find your language on: https://www.localize.im/v/36</item>
+	</string-array>
+    <string-array name="meta_security_body">
+		<item>+ All communication between the app and our servers is encrypted with SSL/TLS. Before your messages and comments are saved on our servers, they are encrypted again.</item>
+		<item>+ No personal information is ever send to any device. Your friends and other users have no way to find out who you are, unless you reveal your identity yourself.</item>
+		<item>+ Messages and comments don\'t stay online forever. They will be destroyed after some time automatically.</item>
+		<item>+ Even if your friends correctly guessed a message that you wrote, they would still not know about any other message of yours.</item>
+		<item>+ Faceless is independent. There is no big company behind and we don\'t try to maximize profits.</item>
+	</string-array>
+    <string-array name="modes_human" translatable="false">
+	    <item>@string/mode_latest</item>
+	    <item>@string/mode_nearby</item>
+	    <item>@string/mode_friends</item>
+	    <item>@string/mode_popular</item>
+	    <item>@string/mode_favorites</item>
+	</string-array>
+    <string-array name="report_options">
+		<item>Wrong topic</item>
+		<item>Report bullying / harassment</item>
+		<item>Report violence / threats</item>
+		<item>Report hate speech</item>
+		<item>Report obscene content</item>
+		<item>Report spam / advertising</item>
+		<item>Report fraud / falsehood</item>
+		<item>Report illegal content</item>
+		<item>Block the author</item>
+	</string-array>
+    <string-array name="subscription_notifications_human">
+		<item>Normal</item>
+		<item>Rarely</item>
+		<item>Very rarely</item>
+		<item>Off</item>
+	</string-array>
+    <string-array name="subscription_notifications_machine" translatable="false">
+	    <item>frequently</item>
+	    <item>moderately</item>
+	    <item>rarely</item>
+	    <item>off</item>
+	</string-array>
+    <string-array name="topics_list_default" translatable="false">
+	    <item>politics</item>
+	    <item>art</item>
+	    <item>business</item>
+	    <item>work</item>
+	    <item>culture</item>
+	    <item>health</item>
+	    <item>science</item>
+	    <item>sports</item>
+	    <item>technology</item>
+	    <item>beauty</item>
+	    <item>books</item>
+	    <item>movies</item>
+	    <item>music</item>
+	    <item>family</item>
+	    <item>food</item>
+	    <item>life</item>
+	    <item>love</item>
+		<item>confessions</item>
+		<item>dreams</item>
+		<item>fantasy</item>
+		<item>friendship</item>
+		<item>funny</item>
+		<item>games</item>
+		<item>hobbies</item>
+		<item>money</item>
+		<item>party</item>
+		<item>philosophy</item>
+		<item>quotes</item>
+		<item>school</item>
+		<item>stories</item>
+		<item>studies</item>
+		<item>travel</item>
+	</string-array>
+    <string-array name="topics_list_human" translatable="false">
+	    <item>@string/topic_politics</item>
+	    <item>@string/topic_art</item>
+	    <item>@string/topic_business</item>
+	    <item>@string/topic_work</item>
+	    <item>@string/topic_culture</item>
+	    <item>@string/topic_health</item>
+	    <item>@string/topic_science</item>
+	    <item>@string/topic_sports</item>
+	    <item>@string/topic_technology</item>
+	    <item>@string/topic_sex</item>
+	    <item>@string/topic_dating</item>
+	    <item>@string/topic_beauty</item>
+	    <item>@string/topic_books</item>
+	    <item>@string/topic_movies</item>
+	    <item>@string/topic_music</item>
+	    <item>@string/topic_family</item>
+	    <item>@string/topic_food</item>
+	    <item>@string/topic_life</item>
+	    <item>@string/topic_love</item>
+		<item>@string/topic_confessions</item>
+		<item>@string/topic_dreams</item>
+		<item>@string/topic_fantasy</item>
+		<item>@string/topic_friendship</item>
+		<item>@string/topic_funny</item>
+		<item>@string/topic_games</item>
+		<item>@string/topic_hobbies</item>
+		<item>@string/topic_money</item>
+		<item>@string/topic_party</item>
+		<item>@string/topic_philosophy</item>
+		<item>@string/topic_quotes</item>
+		<item>@string/topic_school</item>
+		<item>@string/topic_stories</item>
+		<item>@string/topic_studies</item>
+		<item>@string/topic_travel</item>
+	</string-array>
+    <string-array name="topics_list_machine" translatable="false">
+	    <item>politics</item>
+	    <item>art</item>
+	    <item>business</item>
+	    <item>work</item>
+	    <item>culture</item>
+	    <item>health</item>
+	    <item>science</item>
+	    <item>sports</item>
+	    <item>technology</item>
+	    <item>sex</item>
+	    <item>dating</item>
+	    <item>beauty</item>
+	    <item>books</item>
+	    <item>movies</item>
+	    <item>music</item>
+	    <item>family</item>
+	    <item>food</item>
+	    <item>life</item>
+	    <item>love</item>
+		<item>confessions</item>
+		<item>dreams</item>
+		<item>fantasy</item>
+		<item>friendship</item>
+		<item>funny</item>
+		<item>games</item>
+		<item>hobbies</item>
+		<item>money</item>
+		<item>party</item>
+		<item>philosophy</item>
+		<item>quotes</item>
+		<item>school</item>
+		<item>stories</item>
+		<item>studies</item>
+		<item>travel</item>
+	</string-array>
+    <string-array name="visibility_list_human" translatable="false">
+	    <item>@string/visibility_friends_public</item>
+	    <item>@string/visibility_public</item>
+	</string-array>
+    <string-array name="visibility_list_machine" translatable="false">
+	    <item>friends_public</item>
+	    <item>public</item>
+	</string-array>
+    <attr format="reference" name="ptrHeaderStyle"/>
+    <bool name="spb_default_mirror_mode">false</bool>
+    <bool name="spb_default_progressiveStart_activated">false</bool>
+    <bool name="spb_default_reversed">false</bool>
+    <color name="background_dark">#444444</color>
+    <color name="background_darkest">#000000</color>
+    <color name="background_light">#888888</color>
+    <color name="background_medium">#1f8dd6</color>
+    <color name="badge_background_active">#cc0000</color>
+    <color name="badge_background_disabled">#40ffffff</color>
+    <color name="badge_background_pressed">#ff0000</color>
+    <color name="default_progress_bar_color">#FF33B5E5</color>
+    <color name="green_dark">#009900</color>
+    <color name="green_light">#00b300</color>
+    <color name="spb_default_color">#33b5e5</color>
+    <color name="white_dark">#bbbbbb</color>
+    <color name="white_light">#f3f3f3</color>
+    <color name="white_medium">#dddddd</color>
+    <declare-styleable name="PullToRefreshHeader"><attr format="reference|color" name="ptrHeaderBackground"/><attr format="reference|dimension" name="ptrHeaderHeight"/><attr format="reference" name="ptrHeaderTitleTextAppearance"/><attr format="reference|color" name="ptrProgressBarColor"/><attr name="ptrProgressBarStyle"><flag name="inside" value="0x0"/><flag name="outside" value="0x1"/></attr><attr format="reference|dimension" name="ptrProgressBarHeight"/><attr format="reference|string" name="ptrPullText"/><attr format="reference|string" name="ptrRefreshingText"/><attr format="reference|string" name="ptrReleaseText"/><attr format="reference" name="ptrSmoothProgressBarStyle"/></declare-styleable>
+    <declare-styleable name="PullToRefreshView"><attr format="reference|string" name="ptrViewDelegateClass"/></declare-styleable>
+    <declare-styleable name="SmoothProgressBar"><attr format="reference" name="spbStyle"/><attr format="color" name="spb_color"/><attr format="dimension" name="spb_stroke_width"/><attr format="dimension" name="spb_stroke_separator_length"/><attr format="integer" name="spb_sections_count"/><attr format="float" name="spb_speed"/><attr format="float" name="spb_progressiveStart_speed"/><attr format="float" name="spb_progressiveStop_speed"/><attr format="enum" name="spb_interpolator"><enum name="spb_interpolator_accelerate" value="0"/><enum name="spb_interpolator_linear" value="1"/><enum name="spb_interpolator_acceleratedecelerate" value="2"/><enum name="spb_interpolator_decelerate" value="3"/></attr><attr format="boolean" name="spb_reversed"/><attr format="boolean" name="spb_mirror_mode"/><attr format="reference" name="spb_colors"/><attr format="boolean" name="spb_progressiveStart_activated"/><attr format="reference" name="spb_background"/><attr format="boolean" name="spb_generate_background_with_colors"/><attr format="boolean" name="spb_gradients"/></declare-styleable>
+    <dimen name="fontsize_large">20sp</dimen>
+    <dimen name="fontsize_normal">16sp</dimen>
+    <dimen name="fontsize_small">12sp</dimen>
+    <dimen name="ptr_progress_bar_stroke_width">4dp</dimen>
+    <dimen name="spb_default_stroke_separator_length">4dp</dimen>
+    <dimen name="spb_default_stroke_width">4dp</dimen>
+    <item name="ptr_content" type="id"/>
+    <item name="ptr_progress" type="id"/>
+    <item name="ptr_text" type="id"/>
+    <integer name="spb_default_interpolator">0</integer>
+    <integer name="spb_default_sections_count">4</integer>
+    <plurals name="in_x_days">
+		<item quantity="zero">in %d days</item>
+		<item quantity="one">in %d day</item>
+		<item quantity="two">in %d days</item>
+		<item quantity="few">in %d days</item>
+		<item quantity="many">in %d days</item>
+		<item quantity="other">in %d days</item>
+	</plurals>
+    <plurals name="in_x_hours">
+		<item quantity="zero">in %d hours</item>
+		<item quantity="one">in %d hour</item>
+		<item quantity="two">in %d hours</item>
+		<item quantity="few">in %d hours</item>
+		<item quantity="many">in %d hours</item>
+		<item quantity="other">in %d hours</item>
+	</plurals>
+    <plurals name="in_x_minutes">
+		<item quantity="zero">in %d minutes</item>
+		<item quantity="one">in %d minute</item>
+		<item quantity="two">in %d minutes</item>
+		<item quantity="few">in %d minutes</item>
+		<item quantity="many">in %d minutes</item>
+		<item quantity="other">in %d minutes</item>
+	</plurals>
+    <plurals name="x_chars_left">
+		<item quantity="zero">%d chars left</item>
+		<item quantity="one">%d char left</item>
+		<item quantity="two">%d chars left</item>
+		<item quantity="few">%d chars left</item>
+		<item quantity="many">%d chars left</item>
+		<item quantity="other">%d chars left</item>
+	</plurals>
+    <plurals name="x_comments">
+		<item quantity="zero">%d comments</item>
+		<item quantity="one">%d comment</item>
+		<item quantity="two">%d comments</item>
+		<item quantity="few">%d comments</item>
+		<item quantity="many">%d comments</item>
+		<item quantity="other">%d comments</item>
+	</plurals>
+    <plurals name="x_days_ago">
+		<item quantity="zero">%d days ago</item>
+		<item quantity="one">%d day ago</item>
+		<item quantity="two">%d days ago</item>
+		<item quantity="few">%d days ago</item>
+		<item quantity="many">%d days ago</item>
+		<item quantity="other">%d days ago</item>
+	</plurals>
+    <plurals name="x_favorites">
+		<item quantity="zero">%d× favorite</item>
+		<item quantity="one">%d× favorite</item>
+		<item quantity="two">%d× favorite</item>
+		<item quantity="few">%d× favorite</item>
+		<item quantity="many">%d× favorite</item>
+		<item quantity="other">%d× favorite</item>
+	</plurals>
+    <plurals name="x_friends_using_app">
+		<item quantity="zero">%d friends of yours are now using Faceless</item>
+		<item quantity="one">%d friend of yours is now using Faceless</item>
+		<item quantity="two">%d friends of yours are now using Faceless</item>
+		<item quantity="few">%d friends of yours are now using Faceless</item>
+		<item quantity="many">%d friends of yours are now using Faceless</item>
+		<item quantity="other">%d friends of yours are now using Faceless</item>
+	</plurals>
+    <plurals name="x_hours_ago">
+		<item quantity="zero">%d hours ago</item>
+		<item quantity="one">%d hour ago</item>
+		<item quantity="two">%d hours ago</item>
+		<item quantity="few">%d hours ago</item>
+		<item quantity="many">%d hours ago</item>
+		<item quantity="other">%d hours ago</item>
+	</plurals>
+    <plurals name="x_minutes_ago">
+		<item quantity="zero">%d minutes ago</item>
+		<item quantity="one">%d minute ago</item>
+		<item quantity="two">%d minutes ago</item>
+		<item quantity="few">%d minutes ago</item>
+		<item quantity="many">%d minutes ago</item>
+		<item quantity="other">%d minutes ago</item>
+	</plurals>
+    <plurals name="x_subscription_updates">
+		<item quantity="zero">%d unread comments</item>
+		<item quantity="one">%d unread comment</item>
+		<item quantity="two">%d unread comments</item>
+		<item quantity="few">%d unread comments</item>
+		<item quantity="many">%d unread comments</item>
+		<item quantity="other">%d unread comments</item>
+	</plurals>
+    <plurals name="x_unread_messages">
+		<item quantity="zero">%d unread messages from your friends</item>
+		<item quantity="one">%d unread message from your friends</item>
+		<item quantity="two">%d unread messages from your friends</item>
+		<item quantity="few">%d unread messages from your friends</item>
+		<item quantity="many">%d unread messages from your friends</item>
+		<item quantity="other">%d unread messages from your friends</item>
+	</plurals>
+    <string name="about_x_kilometers">ca. %.1f km</string>
+    <string name="action_add">Write message</string>
+    <string name="action_add_favorite">Add to favorites</string>
+    <string name="action_add_subscription">Subscribe to comments</string>
+    <string name="action_help">Help</string>
+    <string name="action_help_summary">Do you have any questions about this app? Read our detailed explanations here.</string>
+    <string name="action_invite">Invite friends</string>
+    <string name="action_invite_promo">Are your friends on Faceless yet?</string>
+    <string name="action_invite_summary">On Faceless, your friends will never see your name. This makes conversations honest and entertaining.</string>
+    <string name="action_loading">Loading …</string>
+    <string name="action_notification_count">New notifications</string>
+    <string name="action_remove_favorite">Remove from favorites</string>
+    <string name="action_remove_subscription">Unsubscribe from comments</string>
+    <string name="action_report">Report message</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_share_picture">Share as picture</string>
+    <string name="app_name">Faceless</string>
+    <string name="app_rater_explanation">How do you like this app? We would be very happy if you could rate our application on Google Play. Thanks for your support!</string>
+    <string name="app_rater_later">Later</string>
+    <string name="app_rater_never">No, thanks</string>
+    <string name="app_rater_now">Rate now</string>
+    <string name="app_rater_title">Rate this app</string>
+    <string name="block_user_added">You will no longer receive messages from this user</string>
+    <string name="cancel">Cancel</string>
+    <string name="change_background">Change background</string>
+    <string name="choose_topic_help">What topic do you want to write something about? Your choice helps others to see only the content they\'re interested in.</string>
+    <string name="choose_visibility_help">Who do you want to share your message with? In any case, nobody will be able to see who you are. Messages on Faceless are always anonymous.</string>
+    <string name="comment_add_hint">Your comment …</string>
+    <string name="comment_confirm_public_body">Do you want to publish this comment for all users?\n\nIf you want to reply to somebody privately instead, please tap on the respective comment.</string>
+    <string name="comment_confirm_public_title">Public comment</string>
+    <string name="comment_options">Comment options</string>
+    <string name="comments">Comments</string>
+    <string name="country">Country</string>
+    <string name="country_afg">Afghanistan</string>
+    <string name="country_ago">Angola</string>
+    <string name="country_are">United Arab Emirates</string>
+    <string name="country_arg">Argentina</string>
+    <string name="country_aus">Australia</string>
+    <string name="country_aut">Austria</string>
+    <string name="country_aze">Azerbaijan</string>
+    <string name="country_bdi">Burundi</string>
+    <string name="country_bel">Belgium</string>
+    <string name="country_ben">Benin</string>
+    <string name="country_bfa">Burkina Faso</string>
+    <string name="country_bgd">Bangladesh</string>
+    <string name="country_bgr">Bulgaria</string>
+    <string name="country_bih">Bosnia and Herzegovina</string>
+    <string name="country_blr">Belarus</string>
+    <string name="country_bol">Bolivia</string>
+    <string name="country_bra">Brazil</string>
+    <string name="country_caf">Central African Republic</string>
+    <string name="country_can">Canada</string>
+    <string name="country_che">Switzerland</string>
+    <string name="country_chl">Chile</string>
+    <string name="country_chn">China</string>
+    <string name="country_civ">Ivory Coast</string>
+    <string name="country_cmr">Cameroon</string>
+    <string name="country_cod">DR Congo</string>
+    <string name="country_cog">Republic of the Congo</string>
+    <string name="country_col">Colombia</string>
+    <string name="country_cri">Costa Rica</string>
+    <string name="country_cub">Cuba</string>
+    <string name="country_cze">Czech Republic</string>
+    <string name="country_deu">Germany</string>
+    <string name="country_dnk">Denmark</string>
+    <string name="country_dom">Dominican Republic</string>
+    <string name="country_dza">Algeria</string>
+    <string name="country_ecu">Ecuador</string>
+    <string name="country_egy">Egypt</string>
+    <string name="country_eri">Eritrea</string>
+    <string name="country_esp">Spain</string>
+    <string name="country_eth">Ethiopia</string>
+    <string name="country_fin">Finland</string>
+    <string name="country_fra">France</string>
+    <string name="country_gbr">United Kingdom</string>
+    <string name="country_geo">Georgia</string>
+    <string name="country_gha">Ghana</string>
+    <string name="country_gin">Guinea</string>
+    <string name="country_grc">Greece</string>
+    <string name="country_gtm">Guatemala</string>
+    <string name="country_hkg">Hong Kong</string>
+    <string name="country_hnd">Honduras</string>
+    <string name="country_hrv">Croatia</string>
+    <string name="country_hti">Haiti</string>
+    <string name="country_hun">Hungary</string>
+    <string name="country_idn">Indonesia</string>
+    <string name="country_ind">India</string>
+    <string name="country_irl">Ireland</string>
+    <string name="country_irn">Iran</string>
+    <string name="country_irq">Iraq</string>
+    <string name="country_isr">Israel</string>
+    <string name="country_ita">Italy</string>
+    <string name="country_jor">Jordan</string>
+    <string name="country_jpn">Japan</string>
+    <string name="country_kaz">Kazakhstan</string>
+    <string name="country_ken">Kenya</string>
+    <string name="country_kgz">Kyrgyzstan</string>
+    <string name="country_khm">Cambodia</string>
+    <string name="country_kor">South Korea</string>
+    <string name="country_lao">Laos</string>
+    <string name="country_lbn">Lebanon</string>
+    <string name="country_lbr">Liberia</string>
+    <string name="country_lby">Libya</string>
+    <string name="country_lka">Sri Lanka</string>
+    <string name="country_mar">Morocco</string>
+    <string name="country_mdg">Madagascar</string>
+    <string name="country_mex">Mexico</string>
+    <string name="country_mli">Mali</string>
+    <string name="country_mmr">Myanmar</string>
+    <string name="country_moz">Mozambique</string>
+    <string name="country_mwi">Malawi</string>
+    <string name="country_mys">Malaysia</string>
+    <string name="country_ner">Niger</string>
+    <string name="country_nga">Nigeria</string>
+    <string name="country_nic">Nicaragua</string>
+    <string name="country_nld">Netherlands</string>
+    <string name="country_nor">Norway</string>
+    <string name="country_npl">Nepal</string>
+    <string name="country_nzl">New Zealand</string>
+    <string name="country_omn">Oman</string>
+    <string name="country_pak">Pakistan</string>
+    <string name="country_per">Peru</string>
+    <string name="country_phl">Philippines</string>
+    <string name="country_png">Papua New Guinea</string>
+    <string name="country_pol">Poland</string>
+    <string name="country_prk">North Korea</string>
+    <string name="country_prt">Portugal</string>
+    <string name="country_pry">Paraguay</string>
+    <string name="country_pse">Palestine</string>
+    <string name="country_rou">Romania</string>
+    <string name="country_rus">Russia</string>
+    <string name="country_rwa">Rwanda</string>
+    <string name="country_sau">Saudi Arabia</string>
+    <string name="country_sdn">Sudan</string>
+    <string name="country_sen">Senegal</string>
+    <string name="country_sgp">Singapore</string>
+    <string name="country_sle">Sierra Leone</string>
+    <string name="country_slv">El Salvador</string>
+    <string name="country_som">Somalia</string>
+    <string name="country_srb">Serbia</string>
+    <string name="country_ssd">South Sudan</string>
+    <string name="country_svk">Slovakia</string>
+    <string name="country_swe">Sweden</string>
+    <string name="country_syr">Syria</string>
+    <string name="country_tcd">Chad</string>
+    <string name="country_tgo">Togo</string>
+    <string name="country_tha">Thailand</string>
+    <string name="country_tjk">Tajikistan</string>
+    <string name="country_tkm">Turkmenistan</string>
+    <string name="country_tun">Tunisia</string>
+    <string name="country_tur">Turkey</string>
+    <string name="country_twn">Taiwan</string>
+    <string name="country_tza">Tanzania</string>
+    <string name="country_uga">Uganda</string>
+    <string name="country_ukr">Ukraine</string>
+    <string name="country_usa">United States</string>
+    <string name="country_uzb">Uzbekistan</string>
+    <string name="country_ven">Venezuela</string>
+    <string name="country_vnm">Vietnam</string>
+    <string name="country_yem">Yemen</string>
+    <string name="country_zaf">South Africa</string>
+    <string name="country_zmb">Zambia</string>
+    <string name="country_zwe">Zimbabwe</string>
+    <string name="default_recommended">Standard (Recommended)</string>
+    <string name="define_smoothprogressbar"/>
+    <string name="degree_author">Author</string>
+    <string name="degree_example">Example</string>
+    <string name="degree_friend">Friend</string>
+    <string name="degree_friend_of_friend">Friend of a friend</string>
+    <string name="degree_self">You</string>
+    <string name="degree_worldwide">Worldwide</string>
+    <string name="enable_location_caption">Share with people nearby</string>
+    <string name="enable_location_help">Do you want to share your message and the <b>approximate</b> location with people nearby?</string>
+    <string name="error_bad_request">Your request could not be handled by the server</string>
+    <string name="error_maintenance">Faceless is out of service for a short time</string>
+    <string name="error_no_connection">Please check your internet connection</string>
+    <string name="error_outdated_client">Please update Faceless to the latest version via Google Play</string>
+    <string name="error_temporarily_banned">You have been temporarily banned due to reports by other persons</string>
+    <string name="example_message_explanation">This is an example: Just start by writing your own message</string>
+    <string name="general_settings">General settings</string>
+    <string name="intro">Welcome</string>
+    <string name="invitation_title">Get Faceless</string>
+    <string name="invite_x_friends_to_see_message">Invite %d friends in order to see this message</string>
+    <string name="language">Language</string>
+    <string name="learn_more">Learn more</string>
+    <string name="library_smoothprogressbar_author">Antoine Merle</string>
+    <string name="library_smoothprogressbar_authorWebsite">https://github.com/castorflex</string>
+    <string name="library_smoothprogressbar_isOpenSource">true</string>
+    <string name="library_smoothprogressbar_libraryDescription">Small library allowing you to make a smooth indeterminate progress bar. You can either user your progress bars and set this drawable or use directly the SmoothProgressBarView.</string>
+    <string name="library_smoothprogressbar_libraryName">SmoothProgressBar</string>
+    <string name="library_smoothprogressbar_libraryVersion">1.0.0</string>
+    <string name="library_smoothprogressbar_libraryWebsite">https://github.com/castorflex/SmoothProgressBar</string>
+    <string name="library_smoothprogressbar_licenseId">apache_2_0</string>
+    <string name="library_smoothprogressbar_repositoryLink">https://github.com/castorflex/SmoothProgressBar.git</string>
+    <string name="login_throttled_body">There have been too many failed login attempts for your account.\n\nThis may also have been caused by another person who tried to get access to your account.\n\nThus we are now protecting your account and have temporarily locked it.\n\nPlease try again later!</string>
+    <string name="login_throttled_title">Account locked</string>
+    <string name="mark_all_read">Mark all as read</string>
+    <string name="message">Message</string>
+    <string name="meta_open_source_title"><b>This app uses the following third-party components which are available under the terms of open-source licenses:</b></string>
+    <string name="meta_permissions_title"><b>App permissions:</b></string>
+    <string name="meta_privacy_title"><b>Privacy Policy:</b></string>
+    <string name="meta_security_title"><b>Is Faceless really secure?</b></string>
+    <string name="mode_favorites">Saved favorites</string>
+    <string name="mode_friends">Friends\' messages</string>
+    <string name="mode_latest">Latest messages</string>
+    <string name="mode_nearby">Nearby</string>
+    <string name="mode_popular">Popular messages</string>
+    <string name="more_options">More options</string>
+    <string name="next">Next</string>
+    <string name="ok">OK</string>
+    <string name="please_choose_topic">Please choose a topic for your message</string>
+    <string name="please_enter_message">Please enter a text for your message</string>
+    <string name="private_reply">Private reply</string>
+    <string name="publish">Publish</string>
+    <string name="pull_to_refresh_pull_label">Pull to refresh…</string>
+    <string name="pull_to_refresh_refreshing_label">Loading…</string>
+    <string name="pull_to_refresh_release_label">Release to refresh…</string>
+    <string name="rate_app">Rate app</string>
+    <string name="read_message">Read message</string>
+    <string name="reason_for_ban">Reason for ban</string>
+    <string name="reply_privately">Reply privately</string>
+    <string name="report_comment">Report comment</string>
+    <string name="report_confirm_block">Block</string>
+    <string name="report_confirm_report">Report</string>
+    <string name="report_sent">Your report has been successfully sent</string>
+    <string name="report_warning_block">Are you sure you want to block the author of this entry?\n\nYou will no longer receive any messages from that person in the future.\n\nThis action cannot be undone later.</string>
+    <string name="report_warning_report">Are you sure you want to report this entry as inappropriate?\n\nA report may cause the entry to be deleted and the author to be temporarily banned from Faceless.\n\nIf you are reporting a message, it will be removed from your personal feed immediately.</string>
+    <string name="send">Send</string>
+    <string name="setup">Setup</string>
+    <string name="setup_intro">Please enter your phone number below to finish setup.\n\nStart with a \"+\" followed by your country code (e.g. +41).\n\nAfter that, just enter your local phone number.\n\nPlease double-check that the number is correct!\n\nIf you don\'t enter your correct number, we won\'t be able to connect you to your friends.\n\nOf course, your phone number is secure with us. We respect your privacy!</string>
+    <string name="setup_phone_number_hint">Example: +41 1234 56789</string>
+    <string name="share_image_failed">Could not save and share the message</string>
+    <item format="float" name="spb_default_speed" type="string">1</item>
+    <string name="subscription_notifications">Notifications for unread comments</string>
+    <string name="subscriptions">Unread comments</string>
+    <string name="this_app">This app</string>
+    <string name="topic_art">Art</string>
+    <string name="topic_beauty">Beauty</string>
+    <string name="topic_books">Books</string>
+    <string name="topic_business">Business</string>
+    <string name="topic_confessions">Confessions</string>
+    <string name="topic_culture">Culture</string>
+    <string name="topic_dating">Dating</string>
+    <string name="topic_dreams">Dreams</string>
+    <string name="topic_family">Family</string>
+    <string name="topic_fantasy">Fantasy</string>
+    <string name="topic_food">Food</string>
+    <string name="topic_friendship">Friendship</string>
+    <string name="topic_funny">Funny</string>
+    <string name="topic_games">Games</string>
+    <string name="topic_health">Health</string>
+    <string name="topic_hobbies">Hobbies</string>
+    <string name="topic_life">Life</string>
+    <string name="topic_love">Love</string>
+    <string name="topic_money">Money</string>
+    <string name="topic_movies">Movies</string>
+    <string name="topic_music">Music</string>
+    <string name="topic_party">Party</string>
+    <string name="topic_philosophy">Philosophy</string>
+    <string name="topic_politics">Politics</string>
+    <string name="topic_quotes">Quotes</string>
+    <string name="topic_school">School</string>
+    <string name="topic_science">Science</string>
+    <string name="topic_sex">Sex</string>
+    <string name="topic_sports">Sports</string>
+    <string name="topic_stories">Stories</string>
+    <string name="topic_studies">Studies</string>
+    <string name="topic_technology">Technology</string>
+    <string name="topic_travel">Travel</string>
+    <string name="topic_work">Work</string>
+    <string name="topics">Topics</string>
+    <string name="topics_empty_human">— Choose a topic —</string>
+    <string name="topics_empty_machine" translatable="false"/>
+    <string name="topics_meta_human">About Faceless</string>
+    <string name="topics_meta_machine" translatable="false">meta</string>
+    <string name="topics_summary">Which topics do you want to see recent and popular messages for?</string>
+    <string name="translate">Translate</string>
+    <string name="translate_explanation">Do you want to help us translate Faceless to your language?\n\nPlease visit the following website on your computer:\nwww.localize.im/v/36\n\nThank you so much for your support!</string>
+    <string name="try_again_shortly">Please try again in a few minutes</string>
+    <string name="type_here">Share a thought …\n\nBe kind and positive.</string>
+    <string name="verify">Verify</string>
+    <string name="verify_phone_number">Verify phone number</string>
+    <string name="verify_phone_number_how">In the next step, you\'ll be asked to start your usual app for text messages.\n\nPlease don\'t use WhatsApp or similar apps here, this won\'t work.\n\nWe\'ll have filled in the recipient and the content for your text message already.\n\nPlease don\'t change the text and just press \"Send\" to complete the verification.\n\nA few minutes later, you should be able to open Faceless and use all features as expected.\n\nNote: The normal fees by your carrier for international text messages apply.</string>
+    <string name="verify_phone_number_why">In order to protect you and your friends from fraud, we must verify your phone number.\n\nThis helps us offer a secure and enjoyable service for all users.\n\nDo you want to verify your number now?\n\nNote: You can only use this app on a single device.\n\nNeed help? Get in touch with us at %s</string>
+    <string name="visibility_friends_public">Friends and public</string>
+    <string name="visibility_public">Public only</string>
+    <string name="you_and_friends">You and your friends</string>
+    <style name="ActionBarTextTheme" parent="@android:style/TextAppearance.Holo.Widget.ActionBar.Title">
+        <item name="android:textColor">@color/white_light</item>
+    </style>
+    <style name="ActionBarTheme" parent="@android:style/Widget.Holo.Light.ActionBar">
+        <item name="android:background">@color/background_medium</item>
+        <item name="android:titleTextStyle">@style/ActionBarTextTheme</item>
+    </style>
+    <style name="AppTheme" parent="@android:style/Theme.Holo.Light.DarkActionBar">
+        <item name="android:actionBarStyle">@style/ActionBarTheme</item>
+    </style>
+    <style name="AppTheme.NoBackground">
+        <item name="android:windowBackground">@null</item>
+    </style>
+    <style name="Button_ButtonBar">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@drawable/mode_button</item>
+        <item name="android:textColor">@color/mode_button</item>
+        <item name="android:textSize">@dimen/fontsize_normal</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:layout_margin">0dp</item>
+        <item name="android:paddingLeft">6dp</item>
+        <item name="android:paddingTop">2dp</item>
+        <item name="android:paddingRight">6dp</item>
+        <item name="android:paddingBottom">2dp</item>
+    </style>
+    <style name="Button_ButtonBar.Transparent">
+        <item name="android:background">@drawable/transparent_button</item>
+    </style>
+    <style name="Button_Inline" parent="android:Widget.Holo.Light.Button">
+		<item name="android:background">@drawable/inline_btn_default_holo_light</item>
+	</style>
+    <style name="CheckBox_Readable">
+	    <item name="android:layout_marginLeft">12dp</item>
+	    <item name="android:layout_marginTop">8dp</item>
+	    <item name="android:layout_marginRight">12dp</item>
+	    <item name="android:layout_marginBottom">8dp</item>
+	    <item name="android:layout_height">wrap_content</item>
+	</style>
+    <style name="CheckBox_Readable.Light">
+	    <item name="android:textColor">#ffffff</item>
+	</style>
+    <style name="CircleProgressBar">
+	    <item name="android:layout_width">48dp</item>
+	    <item name="android:layout_height">48dp</item>
+	    <item name="android:layout_gravity">center</item>
+	</style>
+    <style name="CircleProgressBar.Inline">
+	    <item name="android:layout_width">24dp</item>
+	    <item name="android:layout_height">24dp</item>
+	    <item name="android:visibility">invisible</item>
+	    <item name="android:layout_gravity">center_vertical|right</item>
+	</style>
+    <style name="HorizontalProgressBar" parent="@android:style/Widget.ProgressBar.Horizontal">
+		<item name="android:indeterminate">false</item>
+		<item name="android:indeterminateOnly">false</item>
+		<item name="android:max">100</item>
+		<item name="android:progressDrawable">@drawable/horizontal_progress_bar</item>
+	</style>
+    <style name="ImageButton_Inline" parent="android:Widget.Holo.Light.ImageButton">
+		<item name="android:background">@drawable/inline_btn_default_holo_light</item>
+	</style>
+    <style name="SPB" parent="android:Widget.ProgressBar.Horizontal">
+    </style>
+    <style name="SmoothProgressBar" parent="SPB">
+        <item name="spb_color">@color/spb_default_color</item>
+        <item name="spb_sections_count">@integer/spb_default_sections_count</item>
+        <item name="spb_speed">@string/spb_default_speed</item>
+        <item name="spb_stroke_width">@dimen/spb_default_stroke_width</item>
+        <item name="spb_stroke_separator_length">@dimen/spb_default_stroke_separator_length</item>
+        <item name="spb_reversed">@bool/spb_default_reversed</item>
+        <item name="spb_mirror_mode">@bool/spb_default_mirror_mode</item>
+        <item name="spb_interpolator">@integer/spb_default_interpolator</item>
+    </style>
+    <style name="Spinner_Readable">
+	    <item name="android:paddingLeft">12dp</item>
+	    <item name="android:paddingTop">8dp</item>
+	    <item name="android:paddingRight">12dp</item>
+	    <item name="android:paddingBottom">8dp</item>
+	    <item name="android:gravity">center_horizontal</item>
+	    <item name="android:layout_height">wrap_content</item>
+	</style>
+    <style name="Spinner_Readable.Light">
+	    <item name="android:background">@drawable/spinner_light</item>
+	</style>
+    <style name="TextView_CommentProperty">
+	    <item name="android:layout_height">wrap_content</item>
+	    <item name="android:textColor">#eeeeee</item>
+	    <item name="android:textSize">@dimen/fontsize_small</item>
+	</style>
+    <style name="TextView_LongText">
+	    <item name="android:textColor">#000000</item>
+	    <item name="android:textSize">@dimen/fontsize_normal</item>
+	    <item name="android:textStyle">normal</item>
+	    <item name="android:singleLine">false</item>
+	    <item name="android:padding">12dp</item>
+	    <item name="android:scrollbars">vertical</item>
+	</style>
+    <style name="TextView_Message">
+        <item name="android:textSize">@dimen/fontsize_large</item>
+        <item name="android:singleLine">false</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:padding">12dp</item>
+        <item name="android:gravity">center_horizontal</item>
+    </style>
+    <style name="TextView_Message.Card">
+        <item name="android:layout_marginTop">20dp</item>
+        <item name="android:layout_marginBottom">20dp</item>
+        <item name="android:maxLines">3</item>
+    </style>
+    <style name="TextView_MessageProperty">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:textSize">@dimen/fontsize_small</item>
+        <item name="android:drawablePadding">2dp</item>
+    </style>
+    <style name="TextView_MessageProperty.Left">
+        <item name="android:gravity">center_vertical|left</item>
+    </style>
+    <style name="TextView_MessageProperty.Right">
+        <item name="android:gravity">center_vertical|right</item>
+    </style>
+    <style name="TextView_Readable">
+	    <item name="android:layout_height">wrap_content</item>
+	    <item name="android:textSize">@dimen/fontsize_normal</item>
+	    <item name="android:padding">12dp</item>
+	    <item name="android:background">@android:color/transparent</item>
+	</style>
+    <style name="Theme.SmoothProgressBarDefaults" parent="android:Theme">
+        <item name="spbStyle">@style/SmoothProgressBar</item>
+    </style>
+</resources>

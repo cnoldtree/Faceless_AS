@@ -1,0 +1,182 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Risky Project Location:
+-----------------------
+The tools *should* handle project locations in any directory. However,
+due to bugs, placing projects in directories containing spaces in the
+path, or characters like ", ' and &, have had issues. We're working to
+eliminate these bugs, but to save yourself headaches you may want to
+move your project to a location where this is not a problem.
+C:\lanzhiguo\Class Code\android\Faceless_as
+                  -                        
+
+Manifest Merging:
+-----------------
+Your project uses libraries that provide manifests, and your Eclipse
+project did not explicitly turn on manifest merging. In Android Gradle
+projects, manifests are always merged (meaning that contents from your
+libraries' manifests will be merged into the app manifest. If you had
+manually copied contents from library manifests into your app manifest
+you may need to remove these for the app to build correctly.
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+From Android-Countries-master:
+* .gitignore
+* LICENSE
+* README.md
+From Android-Time-master:
+* .gitignore
+* LICENSE
+* README.md
+From Faceless:
+* README.md
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:18.0.0
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+In ActionBar-PullToRefresh:
+* AndroidManifest.xml => actionBarPullToRefresh\src\main\AndroidManifest.xml
+* assets\ => actionBarPullToRefresh\src\main\assets
+* res\ => actionBarPullToRefresh\src\main\res\
+* src\ => actionBarPullToRefresh\src\main\java\
+* C:\lanzhiguo\Class Code\android\Faceless\SmoothProgressBar-library\ => actionBarPullToRefresh\src\main\java\
+* C:\lanzhiguo\Class Code\android\Faceless\SmoothProgressBar-library\build.gradle => actionBarPullToRefresh\src\main\resources\build.gradle
+* C:\lanzhiguo\Class Code\android\Faceless\SmoothProgressBar-library\gradle.properties => actionBarPullToRefresh\src\main\resources\gradle.properties
+* C:\lanzhiguo\Class Code\android\Faceless\SmoothProgressBar-library\src\SmoothProgressBarLib\.classpath => actionBarPullToRefresh\src\main\resources\src\SmoothProgressBarLib\.classpath
+* C:\lanzhiguo\Class Code\android\Faceless\SmoothProgressBar-library\src\SmoothProgressBarLib\.project => actionBarPullToRefresh\src\main\resources\src\SmoothProgressBarLib\.project
+* C:\lanzhiguo\Class Code\android\Faceless\SmoothProgressBar-library\src\SmoothProgressBarLib\.settings\org.eclipse.jdt.core.prefs => actionBarPullToRefresh\src\main\resources\src\SmoothProgressBarLib\.settings\org.eclipse.jdt.core.prefs
+* C:\lanzhiguo\Class Code\android\Faceless\SmoothProgressBar-library\src\SmoothProgressBarLib\AndroidManifest.xml => actionBarPullToRefresh\src\main\resources\src\SmoothProgressBarLib\AndroidManifest.xml
+* C:\lanzhiguo\Class Code\android\Faceless\SmoothProgressBar-library\src\SmoothProgressBarLib\bin\AndroidManifest.xml => actionBarPullToRefresh\src\main\resources\src\SmoothProgressBarLib\bin\AndroidManifest.xml
+* C:\lanzhiguo\Class Code\android\Faceless\SmoothProgressBar-library\src\SmoothProgressBarLib\bin\jarlist.cache => actionBarPullToRefresh\src\main\resources\src\SmoothProgressBarLib\bin\jarlist.cache
+* C:\lanzhiguo\Class Code\android\Faceless\SmoothProgressBar-library\src\SmoothProgressBarLib\bin\R.txt => actionBarPullToRefresh\src\main\resources\src\SmoothProgressBarLib\bin\R.txt
+* C:\lanzhiguo\Class Code\android\Faceless\SmoothProgressBar-library\src\SmoothProgressBarLib\project.properties => actionBarPullToRefresh\src\main\resources\src\SmoothProgressBarLib\project.properties
+* C:\lanzhiguo\Class Code\android\Faceless\SmoothProgressBar-library\src\SmoothProgressBarLib\res\values\about_libraries_def.xml => actionBarPullToRefresh\src\main\resources\src\SmoothProgressBarLib\res\values\about_libraries_def.xml
+* C:\lanzhiguo\Class Code\android\Faceless\SmoothProgressBar-library\src\SmoothProgressBarLib\res\values\attrs.xml => actionBarPullToRefresh\src\main\resources\src\SmoothProgressBarLib\res\values\attrs.xml
+* C:\lanzhiguo\Class Code\android\Faceless\SmoothProgressBar-library\src\SmoothProgressBarLib\res\values\defaults.xml => actionBarPullToRefresh\src\main\resources\src\SmoothProgressBarLib\res\values\defaults.xml
+* C:\lanzhiguo\Class Code\android\Faceless\SmoothProgressBar-library\src\SmoothProgressBarLib\res\values\styles.xml => actionBarPullToRefresh\src\main\resources\src\SmoothProgressBarLib\res\values\styles.xml
+In Android-Countries-master:
+* AndroidManifest.xml => androidCountriesmaster\src\main\AndroidManifest.xml
+* assets\ => androidCountriesmaster\src\main\assets
+* res\ => androidCountriesmaster\src\main\res\
+* src\ => androidCountriesmaster\src\main\java\
+In Android-Time-master:
+* AndroidManifest.xml => androidTimemaster\src\main\AndroidManifest.xml
+* assets\ => androidTimemaster\src\main\assets
+* lint.xml => androidTimemaster\lint.xml
+* res\ => androidTimemaster\src\main\res\
+* src\ => androidTimemaster\src\main\java\
+In SmoothProgressBarLib:
+* AndroidManifest.xml => smoothProgressBarLib\src\main\AndroidManifest.xml
+* assets\ => smoothProgressBarLib\src\main\assets
+* res\ => smoothProgressBarLib\src\main\res\
+* src\ => smoothProgressBarLib\src\main\java\
+In Faceless:
+* C:\lanzhiguo\Class Code\android\Faceless\ActionBar-PullToRefresh-library\ => faceless\src\main\java\
+* C:\lanzhiguo\Class Code\android\Faceless\ActionBar-PullToRefresh-library\build.gradle => faceless\src\main\resources\build.gradle
+* C:\lanzhiguo\Class Code\android\Faceless\ActionBar-PullToRefresh-library\gradle.properties => faceless\src\main\resources\gradle.properties
+* C:\lanzhiguo\Class Code\android\Faceless\ActionBar-PullToRefresh-library\project.properties => faceless\src\main\resources\project.properties
+* C:\lanzhiguo\Class Code\android\Faceless\ActionBar-PullToRefresh-library\res\values-zh-rTW\pull_refresh_strings.xml => faceless\src\main\resources\res\values-zh-rTW\pull_refresh_strings.xml
+* C:\lanzhiguo\Class Code\android\Faceless\ActionBar-PullToRefresh-library\src\ActionBar-PullToRefresh\.classpath => faceless\src\main\resources\src\ActionBar-PullToRefresh\.classpath
+* C:\lanzhiguo\Class Code\android\Faceless\ActionBar-PullToRefresh-library\src\ActionBar-PullToRefresh\.project => faceless\src\main\resources\src\ActionBar-PullToRefresh\.project
+* C:\lanzhiguo\Class Code\android\Faceless\ActionBar-PullToRefresh-library\src\ActionBar-PullToRefresh\.settings\org.eclipse.jdt.core.prefs => faceless\src\main\resources\src\ActionBar-PullToRefresh\.settings\org.eclipse.jdt.core.prefs
+* C:\lanzhiguo\Class Code\android\Faceless\ActionBar-PullToRefresh-library\src\ActionBar-PullToRefresh\AndroidManifest.xml => faceless\src\main\resources\src\ActionBar-PullToRefresh\AndroidManifest.xml
+* C:\lanzhiguo\Class Code\android\Faceless\ActionBar-PullToRefresh-library\src\ActionBar-PullToRefresh\bin\AndroidManifest.xml => faceless\src\main\resources\src\ActionBar-PullToRefresh\bin\AndroidManifest.xml
+* C:\lanzhiguo\Class Code\android\Faceless\ActionBar-PullToRefresh-library\src\ActionBar-PullToRefresh\bin\R.txt => faceless\src\main\resources\src\ActionBar-PullToRefresh\bin\R.txt
+* C:\lanzhiguo\Class Code\android\Faceless\ActionBar-PullToRefresh-library\src\ActionBar-PullToRefresh\project.properties => faceless\src\main\resources\src\ActionBar-PullToRefresh\project.properties
+* C:\lanzhiguo\Class Code\android\Faceless\ActionBar-PullToRefresh-library\src\ActionBar-PullToRefresh\res\layout\default_header.xml => faceless\src\main\resources\src\ActionBar-PullToRefresh\res\layout\default_header.xml
+* C:\lanzhiguo\Class Code\android\Faceless\ActionBar-PullToRefresh-library\src\ActionBar-PullToRefresh\res\values-ar\pull_refresh_strings.xml => faceless\src\main\resources\src\ActionBar-PullToRefresh\res\values-ar\pull_refresh_strings.xml
+* C:\lanzhiguo\Class Code\android\Faceless\ActionBar-PullToRefresh-library\src\ActionBar-PullToRefresh\res\values-cs\pull_refresh_strings.xml => faceless\src\main\resources\src\ActionBar-PullToRefresh\res\values-cs\pull_refresh_strings.xml
+* C:\lanzhiguo\Class Code\android\Faceless\ActionBar-PullToRefresh-library\src\ActionBar-PullToRefresh\res\values-de\pull_refresh_strings.xml => faceless\src\main\resources\src\ActionBar-PullToRefresh\res\values-de\pull_refresh_strings.xml
+* C:\lanzhiguo\Class Code\android\Faceless\ActionBar-PullToRefresh-library\src\ActionBar-PullToRefresh\res\values-el\pull_refresh_strings.xml => faceless\src\main\resources\src\ActionBar-PullToRefresh\res\values-el\pull_refresh_strings.xml
+* C:\lanzhiguo\Class Code\android\Faceless\ActionBar-PullToRefresh-library\src\ActionBar-PullToRefresh\res\values-es\pull_refresh_strings.xml => faceless\src\main\resources\src\ActionBar-PullToRefresh\res\values-es\pull_refresh_strings.xml
+* C:\lanzhiguo\Class Code\android\Faceless\ActionBar-PullToRefresh-library\src\ActionBar-PullToRefresh\res\values-fi\pull_refresh_strings.xml => faceless\src\main\resources\src\ActionBar-PullToRefresh\res\values-fi\pull_refresh_strings.xml
+* C:\lanzhiguo\Class Code\android\Faceless\ActionBar-PullToRefresh-library\src\ActionBar-PullToRefresh\res\values-fr\pull_refresh_strings.xml => faceless\src\main\resources\src\ActionBar-PullToRefresh\res\values-fr\pull_refresh_strings.xml
+* C:\lanzhiguo\Class Code\android\Faceless\ActionBar-PullToRefresh-library\src\ActionBar-PullToRefresh\res\values-he\pull_refresh_strings.xml => faceless\src\main\resources\src\ActionBar-PullToRefresh\res\values-he\pull_refresh_strings.xml
+* C:\lanzhiguo\Class Code\android\Faceless\ActionBar-PullToRefresh-library\src\ActionBar-PullToRefresh\res\values-it\pull_refresh_strings.xml => faceless\src\main\resources\src\ActionBar-PullToRefresh\res\values-it\pull_refresh_strings.xml
+* C:\lanzhiguo\Class Code\android\Faceless\ActionBar-PullToRefresh-library\src\ActionBar-PullToRefresh\res\values-iw\pull_refresh_strings.xml => faceless\src\main\resources\src\ActionBar-PullToRefresh\res\values-iw\pull_refresh_strings.xml
+* C:\lanzhiguo\Class Code\android\Faceless\ActionBar-PullToRefresh-library\src\ActionBar-PullToRefresh\res\values-ja\pull_refresh_strings.xml => faceless\src\main\resources\src\ActionBar-PullToRefresh\res\values-ja\pull_refresh_strings.xml
+* C:\lanzhiguo\Class Code\android\Faceless\ActionBar-PullToRefresh-library\src\ActionBar-PullToRefresh\res\values-ko\pull_refresh_strings.xml => faceless\src\main\resources\src\ActionBar-PullToRefresh\res\values-ko\pull_refresh_strings.xml
+* C:\lanzhiguo\Class Code\android\Faceless\ActionBar-PullToRefresh-library\src\ActionBar-PullToRefresh\res\values-lt\pull_refresh_strings.xml => faceless\src\main\resources\src\ActionBar-PullToRefresh\res\values-lt\pull_refresh_strings.xml
+* C:\lanzhiguo\Class Code\android\Faceless\ActionBar-PullToRefresh-library\src\ActionBar-PullToRefresh\res\values-nl\pull_refresh_strings.xml => faceless\src\main\resources\src\ActionBar-PullToRefresh\res\values-nl\pull_refresh_strings.xml
+* C:\lanzhiguo\Class Code\android\Faceless\ActionBar-PullToRefresh-library\src\ActionBar-PullToRefresh\res\values-pl\pull_refresh_strings.xml => faceless\src\main\resources\src\ActionBar-PullToRefresh\res\values-pl\pull_refresh_strings.xml
+* C:\lanzhiguo\Class Code\android\Faceless\ActionBar-PullToRefresh-library\src\ActionBar-PullToRefresh\res\values-pt-rBR\pull_refresh_strings.xml => faceless\src\main\resources\src\ActionBar-PullToRefresh\res\values-pt-rBR\pull_refresh_strings.xml
+* C:\lanzhiguo\Class Code\android\Faceless\ActionBar-PullToRefresh-library\src\ActionBar-PullToRefresh\res\values-pt\pull_refresh_strings.xml => faceless\src\main\resources\src\ActionBar-PullToRefresh\res\values-pt\pull_refresh_strings.xml
+* C:\lanzhiguo\Class Code\android\Faceless\ActionBar-PullToRefresh-library\src\ActionBar-PullToRefresh\res\values-ro\pull_refresh_strings.xml => faceless\src\main\resources\src\ActionBar-PullToRefresh\res\values-ro\pull_refresh_strings.xml
+* C:\lanzhiguo\Class Code\android\Faceless\ActionBar-PullToRefresh-library\src\ActionBar-PullToRefresh\res\values-ru\pull_refresh_strings.xml => faceless\src\main\resources\src\ActionBar-PullToRefresh\res\values-ru\pull_refresh_strings.xml
+* C:\lanzhiguo\Class Code\android\Faceless\ActionBar-PullToRefresh-library\src\ActionBar-PullToRefresh\res\values-sk\pull_refresh_strings.xml => faceless\src\main\resources\src\ActionBar-PullToRefresh\res\values-sk\pull_refresh_strings.xml
+* C:\lanzhiguo\Class Code\android\Faceless\ActionBar-PullToRefresh-library\src\ActionBar-PullToRefresh\res\values-sv\pull_refresh_strings.xml => faceless\src\main\resources\src\ActionBar-PullToRefresh\res\values-sv\pull_refresh_strings.xml
+* C:\lanzhiguo\Class Code\android\Faceless\ActionBar-PullToRefresh-library\src\ActionBar-PullToRefresh\res\values-tr\pull_refresh_strings.xml => faceless\src\main\resources\src\ActionBar-PullToRefresh\res\values-tr\pull_refresh_strings.xml
+* C:\lanzhiguo\Class Code\android\Faceless\ActionBar-PullToRefresh-library\src\ActionBar-PullToRefresh\res\values-zh\pull_refresh_strings.xml => faceless\src\main\resources\src\ActionBar-PullToRefresh\res\values-zh\pull_refresh_strings.xml
+* C:\lanzhiguo\Class Code\android\Faceless\ActionBar-PullToRefresh-library\src\ActionBar-PullToRefresh\res\values\attrs.xml => faceless\src\main\resources\src\ActionBar-PullToRefresh\res\values\attrs.xml
+* C:\lanzhiguo\Class Code\android\Faceless\ActionBar-PullToRefresh-library\src\ActionBar-PullToRefresh\res\values\colors.xml => faceless\src\main\resources\src\ActionBar-PullToRefresh\res\values\colors.xml
+* C:\lanzhiguo\Class Code\android\Faceless\ActionBar-PullToRefresh-library\src\ActionBar-PullToRefresh\res\values\dimens.xml => faceless\src\main\resources\src\ActionBar-PullToRefresh\res\values\dimens.xml
+* C:\lanzhiguo\Class Code\android\Faceless\ActionBar-PullToRefresh-library\src\ActionBar-PullToRefresh\res\values\ids.xml => faceless\src\main\resources\src\ActionBar-PullToRefresh\res\values\ids.xml
+* C:\lanzhiguo\Class Code\android\Faceless\ActionBar-PullToRefresh-library\src\ActionBar-PullToRefresh\res\values\pull_refresh_strings.xml => faceless\src\main\resources\src\ActionBar-PullToRefresh\res\values\pull_refresh_strings.xml
+* C:\lanzhiguo\Class Code\android\Faceless\ActionBar-PullToRefresh-library\src\ActionBar-PullToRefresh\res\values\styles.xml => faceless\src\main\resources\src\ActionBar-PullToRefresh\res\values\styles.xml
+* AndroidManifest.xml => faceless\src\main\AndroidManifest.xml
+* assets\ => faceless\src\main\assets\
+* libs\Android-BaseLib.jar => faceless\libs\Android-BaseLib.jar
+* libs\Android-InfiniteScrolling.jar => faceless\libs\Android-InfiniteScrolling.jar
+* libs\Android-KeyValueSpinner.jar => faceless\libs\Android-KeyValueSpinner.jar
+* libs\Android-Languages.jar => faceless\libs\Android-Languages.jar
+* libs\Android-Progress.jar => faceless\libs\Android-Progress.jar
+* libs\Android-SimpleLocation.jar => faceless\libs\Android-SimpleLocation.jar
+* libs\Android-Tasks.jar => faceless\libs\Android-Tasks.jar
+* libs\Android-WebRequest.jar => faceless\libs\Android-WebRequest.jar
+* libs\AppRater.jar => faceless\libs\AppRater.jar
+* libs\Emoji.jar => faceless\libs\Emoji.jar
+* libs\libphonenumber-5.9.jar => faceless\libs\libphonenumber-5.9.jar
+* lint.xml => faceless\lint.xml
+* proguard-project.txt => faceless\proguard-project.txt
+* res\ => faceless\src\main\res\
+* src\ => faceless\src\main\java\
+* C:\lanzhiguo\Class Code\android\Faceless\SmoothProgressBar-library\ => faceless\src\main\java\
+* C:\lanzhiguo\Class Code\android\Faceless\SmoothProgressBar-library\build.gradle => faceless\src\main\resources\build.gradle
+* C:\lanzhiguo\Class Code\android\Faceless\SmoothProgressBar-library\gradle.properties => faceless\src\main\resources\gradle.properties
+* C:\lanzhiguo\Class Code\android\Faceless\SmoothProgressBar-library\src\SmoothProgressBarLib\.classpath => faceless\src\main\resources\src\SmoothProgressBarLib\.classpath
+* C:\lanzhiguo\Class Code\android\Faceless\SmoothProgressBar-library\src\SmoothProgressBarLib\.project => faceless\src\main\resources\src\SmoothProgressBarLib\.project
+* C:\lanzhiguo\Class Code\android\Faceless\SmoothProgressBar-library\src\SmoothProgressBarLib\.settings\org.eclipse.jdt.core.prefs => faceless\src\main\resources\src\SmoothProgressBarLib\.settings\org.eclipse.jdt.core.prefs
+* C:\lanzhiguo\Class Code\android\Faceless\SmoothProgressBar-library\src\SmoothProgressBarLib\AndroidManifest.xml => faceless\src\main\resources\src\SmoothProgressBarLib\AndroidManifest.xml
+* C:\lanzhiguo\Class Code\android\Faceless\SmoothProgressBar-library\src\SmoothProgressBarLib\bin\AndroidManifest.xml => faceless\src\main\resources\src\SmoothProgressBarLib\bin\AndroidManifest.xml
+* C:\lanzhiguo\Class Code\android\Faceless\SmoothProgressBar-library\src\SmoothProgressBarLib\bin\jarlist.cache => faceless\src\main\resources\src\SmoothProgressBarLib\bin\jarlist.cache
+* C:\lanzhiguo\Class Code\android\Faceless\SmoothProgressBar-library\src\SmoothProgressBarLib\bin\R.txt => faceless\src\main\resources\src\SmoothProgressBarLib\bin\R.txt
+* C:\lanzhiguo\Class Code\android\Faceless\SmoothProgressBar-library\src\SmoothProgressBarLib\project.properties => faceless\src\main\resources\src\SmoothProgressBarLib\project.properties
+* C:\lanzhiguo\Class Code\android\Faceless\SmoothProgressBar-library\src\SmoothProgressBarLib\res\values\about_libraries_def.xml => faceless\src\main\resources\src\SmoothProgressBarLib\res\values\about_libraries_def.xml
+* C:\lanzhiguo\Class Code\android\Faceless\SmoothProgressBar-library\src\SmoothProgressBarLib\res\values\attrs.xml => faceless\src\main\resources\src\SmoothProgressBarLib\res\values\attrs.xml
+* C:\lanzhiguo\Class Code\android\Faceless\SmoothProgressBar-library\src\SmoothProgressBarLib\res\values\defaults.xml => faceless\src\main\resources\src\SmoothProgressBarLib\res\values\defaults.xml
+* C:\lanzhiguo\Class Code\android\Faceless\SmoothProgressBar-library\src\SmoothProgressBarLib\res\values\styles.xml => faceless\src\main\resources\src\SmoothProgressBarLib\res\values\styles.xml
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

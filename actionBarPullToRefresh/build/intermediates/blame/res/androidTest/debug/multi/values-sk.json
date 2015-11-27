@@ -1,0 +1,64 @@
+[
+    {
+        "outputFile": "C:\\lanzhiguo\\Class Code\\android\\Faceless_as\\actionBarPullToRefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-sk\\values-sk.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 82,
+                    "endOffset": 133
+                },
+                "from": {
+                    "file": "C:\\lanzhiguo\\Class Code\\android\\Faceless_as\\actionBarPullToRefresh\\build\\intermediates\\bundles\\debug\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 82,
+                        "endOffset": 133
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 138,
+                    "endColumn": 75,
+                    "endOffset": 209
+                },
+                "from": {
+                    "file": "C:\\lanzhiguo\\Class Code\\android\\Faceless_as\\actionBarPullToRefresh\\build\\intermediates\\bundles\\debug\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 138,
+                        "endColumn": 75,
+                        "endOffset": 209
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 214,
+                    "endColumn": 83,
+                    "endOffset": 293
+                },
+                "from": {
+                    "file": "C:\\lanzhiguo\\Class Code\\android\\Faceless_as\\actionBarPullToRefresh\\build\\intermediates\\bundles\\debug\\res\\values-sk\\values-sk.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 214,
+                        "endColumn": 83,
+                        "endOffset": 293
+                    }
+                }
+            }
+        ]
+    }
+]

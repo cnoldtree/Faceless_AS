@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\lanzhiguo\Class Code\android\Faceless_as\faceless\libs\libphonenumber-5.9.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fe3de0fc27bc5610b68f2b7ec67874c47c05b380">
+        <dex dex="C:\lanzhiguo\Class Code\android\Faceless_as\faceless\build\intermediates\pre-dexed\debug\libphonenumber-5.9_545473948780fbce5288987b545c9b24c7be6ce4.jar" />
+    </item>
+    <item
+        jar="C:\lanzhiguo\Class Code\android\Faceless_as\faceless\libs\Emoji.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9ac049a13530b68aa5a33e05e7c7257833bfd112">
+        <dex dex="C:\lanzhiguo\Class Code\android\Faceless_as\faceless\build\intermediates\pre-dexed\debug\Emoji_be0e0d9f6af04d8305344fd952457b023f198c51.jar" />
+    </item>
+    <item
+        jar="C:\lanzhiguo\Class Code\android\Faceless_as\faceless\libs\Android-InfiniteScrolling.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9018fed0dad8e405a38179eb52cfb07727739c53">
+        <dex dex="C:\lanzhiguo\Class Code\android\Faceless_as\faceless\build\intermediates\pre-dexed\debug\Android-InfiniteScrolling_bed166b0c626715355a13dca11efb8ed7e3e9baf.jar" />
+    </item>
+    <item
+        jar="C:\lanzhiguo\Class Code\android\Faceless_as\faceless\build\intermediates\exploded-aar\Faceless_as\androidTimemaster\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="bf48326cb05285ebd993c1d99e4490f5548f13c2">
+        <dex dex="C:\lanzhiguo\Class Code\android\Faceless_as\faceless\build\intermediates\pre-dexed\debug\Faceless_as-androidTimemaster-unspecified_659f0ba98a01c5e42b397d735c4c6468c855d003.jar" />
+    </item>
+    <item
+        jar="C:\lanzhiguo\Class Code\android\Faceless_as\faceless\libs\Android-Languages.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="18933efb7837e7f82c065e17ebdcc40f13d8c16d">
+        <dex dex="C:\lanzhiguo\Class Code\android\Faceless_as\faceless\build\intermediates\pre-dexed\debug\Android-Languages_f22c4112198e66ee28ef736b50ad831524f1b160.jar" />
+    </item>
+    <item
+        jar="C:\lanzhiguo\Class Code\android\Faceless_as\faceless\libs\Android-Progress.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7364adf0ddfbcdfaf20dd8b45a081d248b42103d">
+        <dex dex="C:\lanzhiguo\Class Code\android\Faceless_as\faceless\build\intermediates\pre-dexed\debug\Android-Progress_81357e8a4d8f79d32233f85db66b80f6257dbac1.jar" />
+    </item>
+    <item
+        jar="C:\lanzhiguo\Class Code\android\Faceless_as\faceless\libs\Android-Tasks.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2b9755e27ac917aee254868d033f2b5bc94ca0cb">
+        <dex dex="C:\lanzhiguo\Class Code\android\Faceless_as\faceless\build\intermediates\pre-dexed\debug\Android-Tasks_1e246752fe48a3dc4f5a2762c52a18318ec19cbf.jar" />
+    </item>
+    <item
+        jar="C:\lanzhiguo\Class Code\android\Faceless_as\faceless\build\intermediates\exploded-aar\Faceless_as\androidCountriesmaster\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3646a9222ac1aa3f52ce263322b640fc453d6ddb">
+        <dex dex="C:\lanzhiguo\Class Code\android\Faceless_as\faceless\build\intermediates\pre-dexed\debug\Faceless_as-androidCountriesmaster-unspecified_ab4bc45e234dbee868fa2850de6e32b6d320c5aa.jar" />
+    </item>
+    <item
+        jar="C:\lanzhiguo\Class Code\android\Faceless_as\faceless\build\intermediates\exploded-aar\Faceless_as\actionBarPullToRefresh\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ee5d2546067ecd88082f78e76eb2428d0b264de8">
+        <dex dex="C:\lanzhiguo\Class Code\android\Faceless_as\faceless\build\intermediates\pre-dexed\debug\Faceless_as-actionBarPullToRefresh-unspecified_57cbfdc54093d380cf7bacefc07ac3837a53e23f.jar" />
+    </item>
+    <item
+        jar="C:\lanzhiguo\Class Code\android\Faceless_as\faceless\libs\Android-KeyValueSpinner.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7cdb967113b1e68987f654153b597e0e339cc333">
+        <dex dex="C:\lanzhiguo\Class Code\android\Faceless_as\faceless\build\intermediates\pre-dexed\debug\Android-KeyValueSpinner_5df98a2d0cb7406f5450c0e398f62976f8bc53a6.jar" />
+    </item>
+    <item
+        jar="C:\lanzhiguo\Class Code\android\Faceless_as\faceless\libs\Android-WebRequest.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e5b2f0df23d78fff1dce0f6e19c17d06e8c18a7e">
+        <dex dex="C:\lanzhiguo\Class Code\android\Faceless_as\faceless\build\intermediates\pre-dexed\debug\Android-WebRequest_b065dd41707752d203ccbffcd82cf2912ae7caeb.jar" />
+    </item>
+    <item
+        jar="C:\lanzhiguo\Class Code\android\Faceless_as\faceless\libs\Android-BaseLib.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="01831eaeab104755261bce4194f6cd32ba28694c">
+        <dex dex="C:\lanzhiguo\Class Code\android\Faceless_as\faceless\build\intermediates\pre-dexed\debug\Android-BaseLib_859589a6c1c80fd3ec90c5fb253c13e041652a3e.jar" />
+    </item>
+    <item
+        jar="C:\lanzhiguo\Class Code\android\Faceless_as\faceless\build\intermediates\exploded-aar\Faceless_as\smoothProgressBarLib\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b2535965b56735835ac994cc67f4488e6f4ef42d">
+        <dex dex="C:\lanzhiguo\Class Code\android\Faceless_as\faceless\build\intermediates\pre-dexed\debug\Faceless_as-smoothProgressBarLib-unspecified_1942393ed26309e3381096b64296015fc9dcce1e.jar" />
+    </item>
+    <item
+        jar="C:\lanzhiguo\Class Code\android\Faceless_as\faceless\libs\Android-SimpleLocation.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0b2987d777faaceca7de95a74697093a76ee20bb">
+        <dex dex="C:\lanzhiguo\Class Code\android\Faceless_as\faceless\build\intermediates\pre-dexed\debug\Android-SimpleLocation_1f2bf9f74745c9488369e947287e53b16ae7b204.jar" />
+    </item>
+    <item
+        jar="C:\lanzhiguo\Class Code\android\Faceless_as\faceless\libs\AppRater.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b50e5641b25e81142d34b70ca7915eb9aa048993">
+        <dex dex="C:\lanzhiguo\Class Code\android\Faceless_as\faceless\build\intermediates\pre-dexed\debug\AppRater_ab58cd79616d252fd2decba47aa2f63d9dcf8922.jar" />
+    </item>
+
+</items>

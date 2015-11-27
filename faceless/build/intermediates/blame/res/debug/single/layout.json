@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\Faceless_as\\faceless\\build\\intermediates\\res\\merged\\debug\\layout\\row_messages_list.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\Faceless_as\\faceless\\src\\main\\res\\layout\\row_messages_list.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\Faceless_as\\faceless\\build\\intermediates\\res\\merged\\debug\\layout\\activity_intro.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\Faceless_as\\faceless\\src\\main\\res\\layout\\activity_intro.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\Faceless_as\\faceless\\build\\intermediates\\res\\merged\\debug\\layout\\activity_subscriptions.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\Faceless_as\\faceless\\src\\main\\res\\layout\\activity_subscriptions.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\Faceless_as\\faceless\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_reply_privately.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\Faceless_as\\faceless\\src\\main\\res\\layout\\dialog_reply_privately.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\Faceless_as\\faceless\\build\\intermediates\\res\\merged\\debug\\layout\\default_header.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\Faceless_as\\faceless\\build\\intermediates\\exploded-aar\\Faceless_as\\actionBarPullToRefresh\\unspecified\\res\\layout\\default_header.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\Faceless_as\\faceless\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_text_white.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\Faceless_as\\faceless\\src\\main\\res\\layout\\spinner_text_white.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\Faceless_as\\faceless\\build\\intermediates\\res\\merged\\debug\\layout\\activity_details.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\Faceless_as\\faceless\\src\\main\\res\\layout\\activity_details.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\Faceless_as\\faceless\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\Faceless_as\\faceless\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\Faceless_as\\faceless\\build\\intermediates\\res\\merged\\debug\\layout\\ab_loading.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\Faceless_as\\faceless\\src\\main\\res\\layout\\ab_loading.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\Faceless_as\\faceless\\build\\intermediates\\res\\merged\\debug\\layout\\row_comments_list.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\Faceless_as\\faceless\\src\\main\\res\\layout\\row_comments_list.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\Faceless_as\\faceless\\build\\intermediates\\res\\merged\\debug\\layout\\divider.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\Faceless_as\\faceless\\src\\main\\res\\layout\\divider.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\Faceless_as\\faceless\\build\\intermediates\\res\\merged\\debug\\layout\\badge.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\Faceless_as\\faceless\\src\\main\\res\\layout\\badge.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\Faceless_as\\faceless\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setup.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\Faceless_as\\faceless\\src\\main\\res\\layout\\activity_setup.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\Faceless_as\\faceless\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\Faceless_as\\faceless\\src\\main\\res\\layout\\activity_add.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\Faceless_as\\faceless\\build\\intermediates\\res\\merged\\debug\\layout\\abstract_messages_activity.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\Faceless_as\\faceless\\src\\main\\res\\layout\\abstract_messages_activity.xml"
+    },
+    {
+        "merged": "C:\\lanzhiguo\\Class Code\\android\\Faceless_as\\faceless\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about.xml",
+        "source": "C:\\lanzhiguo\\Class Code\\android\\Faceless_as\\faceless\\src\\main\\res\\layout\\activity_about.xml"
+    }
+]

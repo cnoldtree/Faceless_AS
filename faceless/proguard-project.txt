@@ -1,0 +1,13 @@
+##### GENERAL
+
+# Keep line numbers and obfuscate source file names
+-renamesourcefileattribute SourceFile
+-keepattributes SourceFile,LineNumberTable
+
+# Keep generic type information
+-keepattributes Signature
+
+# Don't break introspection and annotations
+-keepattributes EnclosingMethod,*Annotation*
+
+##### APP-SPECIFIC

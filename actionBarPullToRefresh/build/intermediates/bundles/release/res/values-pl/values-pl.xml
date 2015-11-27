@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pull_to_refresh_pull_label">Przesuń w dół, by odświeżyć…</string>
+    <string name="pull_to_refresh_refreshing_label">Wczytywanie…</string>
+    <string name="pull_to_refresh_release_label">Puść, by odświeżyć…</string>
+</resources>

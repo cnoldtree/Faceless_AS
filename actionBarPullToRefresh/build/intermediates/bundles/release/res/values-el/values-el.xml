@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pull_to_refresh_pull_label">Σύρετε προς τα κάτω για ανανέωση…</string>
+    <string name="pull_to_refresh_refreshing_label">Φόρτωση…</string>
+    <string name="pull_to_refresh_release_label">Αφήστε για ανανέωση…</string>
+</resources>

@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fontsize_small">12sp</dimen>
+    <dimen name="fontsize_normal">16sp</dimen>
+    <dimen name="fontsize_large">20sp</dimen>
+    <color name="background_darkest">#000000</color>
+    <color name="background_dark">#444444</color>
+    <color name="background_medium">#1f8dd6</color>
+    <color name="background_light">#888888</color>
+    <color name="white_dark">#bbbbbb</color>
+    <color name="white_medium">#dddddd</color>
+    <color name="white_light">#f3f3f3</color>
+    <color name="green_dark">#009900</color>
+    <color name="green_light">#00b300</color>
+	<string-array name="meta_open_source_body" translatable="false">
+		<item>+ libphonenumber (Google / Apache License 2.0)</item>
+		<item>+ ActionBar-PullToRefresh (Chris Banes / Apache License 2.0)</item>
+		<item>+ AppRater (delight.im / Apache License 2.0)</item>
+		<item>+ Emoji (delight.im / Apache License 2.0)</item>
+		<item>+ Android-SimpleLocation (delight.im / Apache License 2.0)</item>
+		<item>+ Android-Countries (delight.im / Apache License 2.0)</item>
+		<item>+ Android-Languages (delight.im / Apache License 2.0)</item>
+		<item>+ Android-BaseLib (delight.im / Apache License 2.0)</item>
+		<item>+ Android-KeyValueSpinner (delight.im / Apache License 2.0)</item>
+		<item>+ Android-WebRequest (delight.im / Apache License 2.0)</item>
+		<item>+ Android-Tasks (delight.im / Apache License 2.0)</item>
+		<item>+ Android-Time (delight.im / Apache License 2.0)</item>
+		<item>+ Android-Progress (delight.im / Apache License 2.0)</item>
+		<item>+ Android-InfiniteScrolling (delight.im / Apache License 2.0)</item>
+		<item>+ SmoothProgressBar (Antoine Merle)</item>
+		<item>+ Android Icons (The Android Open Source Project / Apache License 2.0)</item>
+		<item>+ Windows Icons (Austin Andrews, Jay Zawrotny / Creative Commons BY-ND 3.0)</item>
+		<item>+ Android Holo Colors (Jérôme Van Der Linden / CC BY 3.0)</item>
+		<item>+ AndroidEmoji.ttf (The Android Open Source Project / Apache License 2.0)</item>
+	</string-array>
+	<string-array name="subscription_notifications_machine" translatable="false">
+	    <item>frequently</item>
+	    <item>moderately</item>
+	    <item>rarely</item>
+	    <item>off</item>
+	</string-array>
+	<color name="badge_background_active">#cc0000</color>
+	<color name="badge_background_pressed">#ff0000</color>
+	<color name="badge_background_disabled">#40ffffff</color>
+	<string-array name="topics_list_human" translatable="false">
+	    <item>@string/topic_politics</item>
+	    <item>@string/topic_art</item>
+	    <item>@string/topic_business</item>
+	    <item>@string/topic_work</item>
+	    <item>@string/topic_culture</item>
+	    <item>@string/topic_health</item>
+	    <item>@string/topic_science</item>
+	    <item>@string/topic_sports</item>
+	    <item>@string/topic_technology</item>
+	    <item>@string/topic_sex</item>
+	    <item>@string/topic_dating</item>
+	    <item>@string/topic_beauty</item>
+	    <item>@string/topic_books</item>
+	    <item>@string/topic_movies</item>
+	    <item>@string/topic_music</item>
+	    <item>@string/topic_family</item>
+	    <item>@string/topic_food</item>
+	    <item>@string/topic_life</item>
+	    <item>@string/topic_love</item>
+		<item>@string/topic_confessions</item>
+		<item>@string/topic_dreams</item>
+		<item>@string/topic_fantasy</item>
+		<item>@string/topic_friendship</item>
+		<item>@string/topic_funny</item>
+		<item>@string/topic_games</item>
+		<item>@string/topic_hobbies</item>
+		<item>@string/topic_money</item>
+		<item>@string/topic_party</item>
+		<item>@string/topic_philosophy</item>
+		<item>@string/topic_quotes</item>
+		<item>@string/topic_school</item>
+		<item>@string/topic_stories</item>
+		<item>@string/topic_studies</item>
+		<item>@string/topic_travel</item>
+	</string-array>
+	<string-array name="topics_list_machine" translatable="false">
+	    <item>politics</item>
+	    <item>art</item>
+	    <item>business</item>
+	    <item>work</item>
+	    <item>culture</item>
+	    <item>health</item>
+	    <item>science</item>
+	    <item>sports</item>
+	    <item>technology</item>
+	    <item>sex</item>
+	    <item>dating</item>
+	    <item>beauty</item>
+	    <item>books</item>
+	    <item>movies</item>
+	    <item>music</item>
+	    <item>family</item>
+	    <item>food</item>
+	    <item>life</item>
+	    <item>love</item>
+		<item>confessions</item>
+		<item>dreams</item>
+		<item>fantasy</item>
+		<item>friendship</item>
+		<item>funny</item>
+		<item>games</item>
+		<item>hobbies</item>
+		<item>money</item>
+		<item>party</item>
+		<item>philosophy</item>
+		<item>quotes</item>
+		<item>school</item>
+		<item>stories</item>
+		<item>studies</item>
+		<item>travel</item>
+	</string-array>
+	<string-array name="topics_list_default" translatable="false">
+	    <item>politics</item>
+	    <item>art</item>
+	    <item>business</item>
+	    <item>work</item>
+	    <item>culture</item>
+	    <item>health</item>
+	    <item>science</item>
+	    <item>sports</item>
+	    <item>technology</item>
+	    <item>beauty</item>
+	    <item>books</item>
+	    <item>movies</item>
+	    <item>music</item>
+	    <item>family</item>
+	    <item>food</item>
+	    <item>life</item>
+	    <item>love</item>
+		<item>confessions</item>
+		<item>dreams</item>
+		<item>fantasy</item>
+		<item>friendship</item>
+		<item>funny</item>
+		<item>games</item>
+		<item>hobbies</item>
+		<item>money</item>
+		<item>party</item>
+		<item>philosophy</item>
+		<item>quotes</item>
+		<item>school</item>
+		<item>stories</item>
+		<item>studies</item>
+		<item>travel</item>
+	</string-array>
+	<string name="topics_empty_machine" translatable="false"></string>
+	<string name="topics_meta_machine" translatable="false">meta</string>
+	<string-array name="visibility_list_human" translatable="false">
+	    <item>@string/visibility_friends_public</item>
+	    <item>@string/visibility_public</item>
+	</string-array>
+	<string-array name="visibility_list_machine" translatable="false">
+	    <item>friends_public</item>
+	    <item>public</item>
+	</string-array>
+	<string-array name="modes_human" translatable="false">
+	    <item>@string/mode_latest</item>
+	    <item>@string/mode_nearby</item>
+	    <item>@string/mode_friends</item>
+	    <item>@string/mode_popular</item>
+	    <item>@string/mode_favorites</item>
+	</string-array>
+</resources>

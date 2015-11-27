@@ -1,0 +1,37 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 16
+    buildToolsVersion "23.0.2"
+
+    defaultConfig {
+        applicationId "im.delight.faceless"
+        minSdkVersion 14
+        targetSdkVersion 23
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-project.txt'
+        }
+    }
+}
+
+dependencies {
+    compile project(':androidCountriesmaster')
+    compile project(':androidTimemaster')
+    compile project(':actionBarPullToRefresh')
+    compile project(':smoothProgressBarLib')
+    compile files('libs/Android-BaseLib.jar')
+    compile files('libs/Android-InfiniteScrolling.jar')
+    compile files('libs/Android-KeyValueSpinner.jar')
+    compile files('libs/Android-Languages.jar')
+    compile files('libs/Android-Progress.jar')
+    compile files('libs/Android-SimpleLocation.jar')
+    compile files('libs/Android-Tasks.jar')
+    compile files('libs/Android-WebRequest.jar')
+    compile files('libs/AppRater.jar')
+    compile files('libs/Emoji.jar')
+    compile files('libs/libphonenumber-5.9.jar')
+}
